@@ -1,0 +1,1000 @@
+{"id": 0, "text": "Hi, my name is Mario Hernandez and my SSN is 332-20-6469.", "spans": [{"type": "PERSON", "start": 15, "end": 30, "value": "Mario Hernandez"}, {"type": "SSN", "start": 45, "end": 56, "value": "332-20-6469"}]}
+{"id": 1, "text": "Applicant: Debra Jones, DOB: 12/12/1974, phone (749) 296-5991", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Debra Jones"}, {"type": "DOB", "start": 29, "end": 39, "value": "12/12/1974"}, {"type": "PHONE", "start": 47, "end": 61, "value": "(749) 296-5991"}]}
+{"id": 2, "text": "Please charge card 5530 1661 3186 0915 and email the receipt to brandi83@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5530 1661 3186 0915"}, {"type": "EMAIL", "start": 64, "end": 84, "value": "brandi83@example.org"}]}
+{"id": 3, "text": "Amex 349960308246284 was declined for order #2076225.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "349960308246284"}]}
+{"id": 4, "text": "Ship to 5055 Miller Way before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "5055 Miller Way"}]}
+{"id": 5, "text": "Dear Brian Cunningham, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 21, "value": "Brian Cunningham"}]}
+{"id": 6, "text": "Login from 200.63.88.195 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "200.63.88.195"}]}
+{"id": 7, "text": "She was born on 12/15/1977 in Williamsbury.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "12/15/1977"}]}
+{"id": 8, "text": "Customer: Brandon Garrison, contact robert81@example.net or 796.784.3078.", "spans": [{"type": "PERSON", "start": 10, "end": 26, "value": "Brandon Garrison"}, {"type": "EMAIL", "start": 36, "end": 56, "value": "robert81@example.net"}, {"type": "PHONE", "start": 60, "end": 72, "value": "796.784.3078"}]}
+{"id": 9, "text": "Text me at (300) 760-1028 about the $638.26 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(300) 760-1028"}]}
+{"id": 10, "text": "The meeting moved to 07/13/1987 in room 608.", "spans": []}
+{"id": 11, "text": "Tracking number 1ZGJ219935 ships to ZIP 93838.", "spans": []}
+{"id": 12, "text": "What APR does the Discover card charge after 19 months?", "spans": []}
+{"id": 13, "text": "Bryan Brown called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 11, "value": "Bryan Brown"}]}
+{"id": 14, "text": "My social is three four five four three three two two two.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "three four five four three three two two two"}]}
+{"id": 15, "text": "I live at 84 tyler place.", "spans": [{"type": "ADDRESS", "start": 10, "end": 24, "value": "84 tyler place"}]}
+{"id": 16, "text": "Hi, my name is Ronald Edwards and my SSN is 589 39 8605.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Ronald Edwards"}, {"type": "SSN", "start": 44, "end": 55, "value": "589 39 8605"}]}
+{"id": 17, "text": "Applicant: Brenda Chavez, DOB: 1957-09-16, phone (947) 659-4717", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Brenda Chavez"}, {"type": "DOB", "start": 31, "end": 41, "value": "1957-09-16"}, {"type": "PHONE", "start": 49, "end": 63, "value": "(947) 659-4717"}]}
+{"id": 18, "text": "Please charge card 4862527601895551 and email the receipt to hollysanchez@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4862527601895551"}, {"type": "EMAIL", "start": 61, "end": 85, "value": "hollysanchez@example.net"}]}
+{"id": 19, "text": "Amex 379711471049747 was declined for order #6572506.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "379711471049747"}]}
+{"id": 20, "text": "Ship to 370 Evans Drive, Goldenmouth, LA 80318 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 46, "value": "370 Evans Drive, Goldenmouth, LA 80318"}]}
+{"id": 21, "text": "Dear Tina Wilson, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "Tina Wilson"}]}
+{"id": 22, "text": "Login from 53.228.62.11 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "53.228.62.11"}]}
+{"id": 23, "text": "She was born on 1946-12-03 in Fisherland.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1946-12-03"}]}
+{"id": 24, "text": "Customer: Kathy Berry, contact matthew59@example.com or +1 373-825-1918.", "spans": [{"type": "PERSON", "start": 10, "end": 21, "value": "Kathy Berry"}, {"type": "EMAIL", "start": 31, "end": 52, "value": "matthew59@example.com"}, {"type": "PHONE", "start": 56, "end": 71, "value": "+1 373-825-1918"}]}
+{"id": 25, "text": "Text me at 261-423-4709 about the $761.31 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "261-423-4709"}]}
+{"id": 26, "text": "The meeting moved to 12/15/2002 in room 507.", "spans": []}
+{"id": 27, "text": "Tracking number 1ZDU711471 ships to ZIP 92446.", "spans": []}
+{"id": 28, "text": "What APR does the Chase card charge after 21 months?", "spans": []}
+{"id": 29, "text": "Kyle Lane called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 9, "value": "Kyle Lane"}]}
+{"id": 30, "text": "My social is one two four four five three two four five.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "one two four four five three two four five"}]}
+{"id": 31, "text": "I live at 286 mitchell lights.", "spans": [{"type": "ADDRESS", "start": 10, "end": 29, "value": "286 mitchell lights"}]}
+{"id": 32, "text": "Hi, my name is Paige Reed and my SSN is 725 54 5879.", "spans": [{"type": "PERSON", "start": 15, "end": 25, "value": "Paige Reed"}, {"type": "SSN", "start": 40, "end": 51, "value": "725 54 5879"}]}
+{"id": 33, "text": "Applicant: Shelia Kelly, DOB: 06/04/1980, phone 355-284-2887", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Shelia Kelly"}, {"type": "DOB", "start": 30, "end": 40, "value": "06/04/1980"}, {"type": "PHONE", "start": 48, "end": 60, "value": "355-284-2887"}]}
+{"id": 34, "text": "Please charge card 4307-9244-0268-5997 and email the receipt to xbrown@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4307-9244-0268-5997"}, {"type": "EMAIL", "start": 64, "end": 82, "value": "xbrown@example.com"}]}
+{"id": 35, "text": "Amex 348907866661769 was declined for order #1144345.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "348907866661769"}]}
+{"id": 36, "text": "Ship to 1104 Anderson Ave before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 25, "value": "1104 Anderson Ave"}]}
+{"id": 37, "text": "Dear Christopher Cole, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 21, "value": "Christopher Cole"}]}
+{"id": 38, "text": "Login from 5.24.108.187 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "5.24.108.187"}]}
+{"id": 39, "text": "She was born on 1995-08-21 in Jasminestad.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1995-08-21"}]}
+{"id": 40, "text": "Customer: Felicia James, contact edwardthompson@example.org or (367) 312-5571.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Felicia James"}, {"type": "EMAIL", "start": 33, "end": 59, "value": "edwardthompson@example.org"}, {"type": "PHONE", "start": 63, "end": 77, "value": "(367) 312-5571"}]}
+{"id": 41, "text": "Text me at 305-200-9286 about the $554.12 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "305-200-9286"}]}
+{"id": 42, "text": "The meeting moved to 06/04/2007 in room 472.", "spans": []}
+{"id": 43, "text": "Tracking number 1ZAJ079244 ships to ZIP 55413.", "spans": []}
+{"id": 44, "text": "What APR does the Discover card charge after 6 months?", "spans": []}
+{"id": 45, "text": "Amanda Bishop called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Amanda Bishop"}]}
+{"id": 46, "text": "My social is one two five four two three three five three.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "one two five four two three three five three"}]}
+{"id": 47, "text": "I live at 486 benton spurs.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "486 benton spurs"}]}
+{"id": 48, "text": "Hi, my name is Michele Clements and my SSN is 126 15 7997.", "spans": [{"type": "PERSON", "start": 15, "end": 31, "value": "Michele Clements"}, {"type": "SSN", "start": 46, "end": 57, "value": "126 15 7997"}]}
+{"id": 49, "text": "Applicant: Diana Singh, DOB: 1969-02-28, phone 696-519-1407", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Diana Singh"}, {"type": "DOB", "start": 29, "end": 39, "value": "1969-02-28"}, {"type": "PHONE", "start": 47, "end": 59, "value": "696-519-1407"}]}
+{"id": 50, "text": "Please charge card 4547280385280847 and email the receipt to zsanders@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4547280385280847"}, {"type": "EMAIL", "start": 61, "end": 81, "value": "zsanders@example.org"}]}
+{"id": 51, "text": "Amex 344852538885392 was declined for order #3374007.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "344852538885392"}]}
+{"id": 52, "text": "Ship to 6565 Olson Ave before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 22, "value": "6565 Olson Ave"}]}
+{"id": 53, "text": "Dear Francis Peterson, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 21, "value": "Francis Peterson"}]}
+{"id": 54, "text": "Login from 64.3.210.114 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "64.3.210.114"}]}
+{"id": 55, "text": "She was born on 03/15/1977 in West Christinaland.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "03/15/1977"}]}
+{"id": 56, "text": "Customer: Nancy Mendez, contact cynthiamoses@example.net or (731) 704-5825.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Nancy Mendez"}, {"type": "EMAIL", "start": 32, "end": 56, "value": "cynthiamoses@example.net"}, {"type": "PHONE", "start": 60, "end": 74, "value": "(731) 704-5825"}]}
+{"id": 57, "text": "Text me at 229.486.7737 about the $203.88 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "229.486.7737"}]}
+{"id": 58, "text": "The meeting moved to 09/11/1990 in room 719.", "spans": []}
+{"id": 59, "text": "Tracking number 1ZTF117777 ships to ZIP 19390.", "spans": []}
+{"id": 60, "text": "What APR does the Chase card charge after 20 months?", "spans": []}
+{"id": 61, "text": "Curtis Cooper called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Curtis Cooper"}]}
+{"id": 62, "text": "My social is three three one two one two four two three.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "three three one two one two four two three"}]}
+{"id": 63, "text": "I live at 210 mendoza square.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "210 mendoza square"}]}
+{"id": 64, "text": "Hi, my name is Evan Johnson and my SSN is 495-80-9999.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Evan Johnson"}, {"type": "SSN", "start": 42, "end": 53, "value": "495-80-9999"}]}
+{"id": 65, "text": "Applicant: Stephanie Rice, DOB: 1946-07-13, phone (869) 552-1389", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Stephanie Rice"}, {"type": "DOB", "start": 32, "end": 42, "value": "1946-07-13"}, {"type": "PHONE", "start": 50, "end": 64, "value": "(869) 552-1389"}]}
+{"id": 66, "text": "Please charge card 5137 2651 6761 2229 and email the receipt to changkenneth@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5137 2651 6761 2229"}, {"type": "EMAIL", "start": 64, "end": 88, "value": "changkenneth@example.net"}]}
+{"id": 67, "text": "Amex 349729975288204 was declined for order #338956.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "349729975288204"}]}
+{"id": 68, "text": "Ship to 8628 Boyer St before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 21, "value": "8628 Boyer St"}]}
+{"id": 69, "text": "Dear Amanda Maxwell, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Amanda Maxwell"}]}
+{"id": 70, "text": "Login from 46.70.80.144 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "46.70.80.144"}]}
+{"id": 71, "text": "She was born on 1980-08-05 in Port John.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1980-08-05"}]}
+{"id": 72, "text": "Customer: Richard Pratt, contact zacharykelly@example.org or 400.416.0458.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Richard Pratt"}, {"type": "EMAIL", "start": 33, "end": 57, "value": "zacharykelly@example.org"}, {"type": "PHONE", "start": 61, "end": 73, "value": "400.416.0458"}]}
+{"id": 73, "text": "Text me at 418-499-8211 about the $787.75 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "418-499-8211"}]}
+{"id": 74, "text": "The meeting moved to 03/28/2026 in room 433.", "spans": []}
+{"id": 75, "text": "Tracking number 1ZCZ474395 ships to ZIP 95282.", "spans": []}
+{"id": 76, "text": "What APR does the Chase card charge after 19 months?", "spans": []}
+{"id": 77, "text": "Vanessa Friedman called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 16, "value": "Vanessa Friedman"}]}
+{"id": 78, "text": "My social is two one three four five five four five two.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "two one three four five five four five two"}]}
+{"id": 79, "text": "I live at 545 miller cove.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "545 miller cove"}]}
+{"id": 80, "text": "Hi, my name is Jeremy Gonzalez and my SSN is 156-68-8365.", "spans": [{"type": "PERSON", "start": 15, "end": 30, "value": "Jeremy Gonzalez"}, {"type": "SSN", "start": 45, "end": 56, "value": "156-68-8365"}]}
+{"id": 81, "text": "Applicant: James Hanson, DOB: 2001-07-20, phone 388-823-0064", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "James Hanson"}, {"type": "DOB", "start": 30, "end": 40, "value": "2001-07-20"}, {"type": "PHONE", "start": 48, "end": 60, "value": "388-823-0064"}]}
+{"id": 82, "text": "Please charge card 4279 1805 8887 1802 and email the receipt to mendozadenise@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4279 1805 8887 1802"}, {"type": "EMAIL", "start": 64, "end": 89, "value": "mendozadenise@example.net"}]}
+{"id": 83, "text": "Amex 344018780175987 was declined for order #8692643.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "344018780175987"}]}
+{"id": 84, "text": "Ship to 4542 Miller Ave, South Kimberlyborough, NJ 23900 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 56, "value": "4542 Miller Ave, South Kimberlyborough, NJ 23900"}]}
+{"id": 85, "text": "Dear Ryan Fields, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "Ryan Fields"}]}
+{"id": 86, "text": "Login from 89.85.106.255 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "89.85.106.255"}]}
+{"id": 87, "text": "She was born on August 21, 1969 in Lake Erikberg.", "spans": [{"type": "DOB", "start": 16, "end": 31, "value": "August 21, 1969"}]}
+{"id": 88, "text": "Customer: Anthony Garza, contact jdrake@example.net or 747-689-8319.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Anthony Garza"}, {"type": "EMAIL", "start": 33, "end": 51, "value": "jdrake@example.net"}, {"type": "PHONE", "start": 55, "end": 67, "value": "747-689-8319"}]}
+{"id": 89, "text": "Text me at 916-735-4253 about the $865.57 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "916-735-4253"}]}
+{"id": 90, "text": "The meeting moved to 12/20/2016 in room 240.", "spans": []}
+{"id": 91, "text": "Tracking number 1ZBA752882 ships to ZIP 95707.", "spans": []}
+{"id": 92, "text": "What APR does the Chase card charge after 9 months?", "spans": []}
+{"id": 93, "text": "Debra Rose called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 10, "value": "Debra Rose"}]}
+{"id": 94, "text": "My social is four four three one two four one two three.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "four four three one two four one two three"}]}
+{"id": 95, "text": "I live at 803 ryan well.", "spans": [{"type": "ADDRESS", "start": 10, "end": 23, "value": "803 ryan well"}]}
+{"id": 96, "text": "Hi, my name is James Russo and my SSN is 126-20-6000.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "James Russo"}, {"type": "SSN", "start": 41, "end": 52, "value": "126-20-6000"}]}
+{"id": 97, "text": "Applicant: Anthony Lewis, DOB: 1972-05-30, phone (341) 678-3597", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Anthony Lewis"}, {"type": "DOB", "start": 31, "end": 41, "value": "1972-05-30"}, {"type": "PHONE", "start": 49, "end": 63, "value": "(341) 678-3597"}]}
+{"id": 98, "text": "Please charge card 5172326865635510 and email the receipt to jordan62@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5172326865635510"}, {"type": "EMAIL", "start": 61, "end": 81, "value": "jordan62@example.org"}]}
+{"id": 99, "text": "Amex 370587706589486 was declined for order #1178620.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "370587706589486"}]}
+{"id": 100, "text": "Ship to 3745 Kent St before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 20, "value": "3745 Kent St"}]}
+{"id": 101, "text": "Dear Robert Hardin, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "Robert Hardin"}]}
+{"id": 102, "text": "Login from 10.109.235.253 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "10.109.235.253"}]}
+{"id": 103, "text": "She was born on 01/16/1974 in Port Scottburgh.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "01/16/1974"}]}
+{"id": 104, "text": "Customer: Charlotte Parsons, contact geraldwells@example.net or 472-478-0648.", "spans": [{"type": "PERSON", "start": 10, "end": 27, "value": "Charlotte Parsons"}, {"type": "EMAIL", "start": 37, "end": 60, "value": "geraldwells@example.net"}, {"type": "PHONE", "start": 64, "end": 76, "value": "472-478-0648"}]}
+{"id": 105, "text": "Text me at +1 477-973-2122 about the $874.86 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 477-973-2122"}]}
+{"id": 106, "text": "The meeting moved to 11/02/1976 in room 938.", "spans": []}
+{"id": 107, "text": "Tracking number 1ZYX058887 ships to ZIP 14408.", "spans": []}
+{"id": 108, "text": "What APR does the Chase card charge after 18 months?", "spans": []}
+{"id": 109, "text": "Nicole Brown called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Nicole Brown"}]}
+{"id": 110, "text": "My social is two five five five four three one three one.", "spans": [{"type": "SSN", "start": 13, "end": 56, "value": "two five five five four three one three one"}]}
+{"id": 111, "text": "I live at 819 joshua trail.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "819 joshua trail"}]}
+{"id": 112, "text": "Hi, my name is Connor Hayes and my SSN is 706-24-6969.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Connor Hayes"}, {"type": "SSN", "start": 42, "end": 53, "value": "706-24-6969"}]}
+{"id": 113, "text": "Applicant: Anthony Shannon, DOB: 1940-06-14, phone 218.849.1451", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Anthony Shannon"}, {"type": "DOB", "start": 33, "end": 43, "value": "1940-06-14"}, {"type": "PHONE", "start": 51, "end": 63, "value": "218.849.1451"}]}
+{"id": 114, "text": "Please charge card 4931417058649205 and email the receipt to cheyenne89@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4931417058649205"}, {"type": "EMAIL", "start": 61, "end": 83, "value": "cheyenne89@example.net"}]}
+{"id": 115, "text": "Amex 341240234483477 was declined for order #8490094.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "341240234483477"}]}
+{"id": 116, "text": "Ship to 4433 Gonzalez Avenue, Shaunside, AS 63158 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 49, "value": "4433 Gonzalez Avenue, Shaunside, AS 63158"}]}
+{"id": 117, "text": "Dear William Wright, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "William Wright"}]}
+{"id": 118, "text": "Login from 12.39.74.62 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 22, "value": "12.39.74.62"}]}
+{"id": 119, "text": "She was born on 03/12/2003 in Port Seth.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "03/12/2003"}]}
+{"id": 120, "text": "Customer: Robert Long, contact charles36@example.org or (457) 237-0251.", "spans": [{"type": "PERSON", "start": 10, "end": 21, "value": "Robert Long"}, {"type": "EMAIL", "start": 31, "end": 52, "value": "charles36@example.org"}, {"type": "PHONE", "start": 56, "end": 70, "value": "(457) 237-0251"}]}
+{"id": 121, "text": "Text me at 951-717-9028 about the $531.60 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "951-717-9028"}]}
+{"id": 122, "text": "The meeting moved to 02/01/1982 in room 351.", "spans": []}
+{"id": 123, "text": "Tracking number 1ZID412524 ships to ZIP 29282.", "spans": []}
+{"id": 124, "text": "What APR does the Chase card charge after 9 months?", "spans": []}
+{"id": 125, "text": "Julie Davis called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 11, "value": "Julie Davis"}]}
+{"id": 126, "text": "My social is four four five four five three two two three.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "four four five four five three two two three"}]}
+{"id": 127, "text": "I live at 204 martin shores.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "204 martin shores"}]}
+{"id": 128, "text": "Hi, my name is Marissa Martin and my SSN is 854 91 2290.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Marissa Martin"}, {"type": "SSN", "start": 44, "end": 55, "value": "854 91 2290"}]}
+{"id": 129, "text": "Applicant: Ryan Robertson, DOB: 1960-08-01, phone (256) 332-0233", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Ryan Robertson"}, {"type": "DOB", "start": 32, "end": 42, "value": "1960-08-01"}, {"type": "PHONE", "start": 50, "end": 64, "value": "(256) 332-0233"}]}
+{"id": 130, "text": "Please charge card 5546 2016 8493 4072 and email the receipt to michaeldavis@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5546 2016 8493 4072"}, {"type": "EMAIL", "start": 64, "end": 88, "value": "michaeldavis@example.com"}]}
+{"id": 131, "text": "Amex 344704558530434 was declined for order #6082485.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "344704558530434"}]}
+{"id": 132, "text": "Ship to 18 Smith Avenue, Alexandertown, MS 43951 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 48, "value": "18 Smith Avenue, Alexandertown, MS 43951"}]}
+{"id": 133, "text": "Dear Zachary Phillips, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 21, "value": "Zachary Phillips"}]}
+{"id": 134, "text": "Login from 203.156.227.188 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 26, "value": "203.156.227.188"}]}
+{"id": 135, "text": "She was born on 2007-09-28 in North Christopher.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "2007-09-28"}]}
+{"id": 136, "text": "Customer: Joseph Bullock, contact josephanderson@example.com or 286-686-4569.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Joseph Bullock"}, {"type": "EMAIL", "start": 34, "end": 60, "value": "josephanderson@example.com"}, {"type": "PHONE", "start": 64, "end": 76, "value": "286-686-4569"}]}
+{"id": 137, "text": "Text me at (455) 716-0081 about the $275.11 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(455) 716-0081"}]}
+{"id": 138, "text": "The meeting moved to 04/13/2018 in room 247.", "spans": []}
+{"id": 139, "text": "Tracking number 1ZFS462889 ships to ZIP 43367.", "spans": []}
+{"id": 140, "text": "What APR does the Chase card charge after 7 months?", "spans": []}
+{"id": 141, "text": "Christopher Brown called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 17, "value": "Christopher Brown"}]}
+{"id": 142, "text": "My social is four one three three two one five five two.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "four one three three two one five five two"}]}
+{"id": 143, "text": "I live at 674 ronald cliffs.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "674 ronald cliffs"}]}
+{"id": 144, "text": "Hi, my name is Joseph Smith and my SSN is 735-77-6382.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Joseph Smith"}, {"type": "SSN", "start": 42, "end": 53, "value": "735-77-6382"}]}
+{"id": 145, "text": "Applicant: Christopher Green, DOB: March 23, 1980, phone 707-353-4655", "spans": [{"type": "PERSON", "start": 11, "end": 28, "value": "Christopher Green"}, {"type": "DOB", "start": 35, "end": 49, "value": "March 23, 1980"}, {"type": "PHONE", "start": 57, "end": 69, "value": "707-353-4655"}]}
+{"id": 146, "text": "Please charge card 4868288909310025 and email the receipt to carlroy@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4868288909310025"}, {"type": "EMAIL", "start": 61, "end": 80, "value": "carlroy@example.com"}]}
+{"id": 147, "text": "Amex 371678008374070 was declined for order #1276276.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "371678008374070"}]}
+{"id": 148, "text": "Ship to 8769 Smith Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 24, "value": "8769 Smith Court"}]}
+{"id": 149, "text": "Dear Bradley Mckinney, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 21, "value": "Bradley Mckinney"}]}
+{"id": 150, "text": "Login from 205.74.165.210 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "205.74.165.210"}]}
+{"id": 151, "text": "She was born on December 12, 1954 in East Sarah.", "spans": [{"type": "DOB", "start": 16, "end": 33, "value": "December 12, 1954"}]}
+{"id": 152, "text": "Customer: Courtney Schmidt, contact kellyporter@example.org or 739.267.7763.", "spans": [{"type": "PERSON", "start": 10, "end": 26, "value": "Courtney Schmidt"}, {"type": "EMAIL", "start": 36, "end": 59, "value": "kellyporter@example.org"}, {"type": "PHONE", "start": 63, "end": 75, "value": "739.267.7763"}]}
+{"id": 153, "text": "Text me at 277-471-3846 about the $241.94 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "277-471-3846"}]}
+{"id": 154, "text": "The meeting moved to 05/16/1985 in room 765.", "spans": []}
+{"id": 155, "text": "Tracking number 1ZJM040008 ships to ZIP 67902.", "spans": []}
+{"id": 156, "text": "What APR does the Chase card charge after 21 months?", "spans": []}
+{"id": 157, "text": "Thomas Michael called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Thomas Michael"}]}
+{"id": 158, "text": "My social is four one four three one five two one five.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "four one four three one five two one five"}]}
+{"id": 159, "text": "I live at 151 dominique run.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "151 dominique run"}]}
+{"id": 160, "text": "Hi, my name is Ryan Simpson and my SSN is 340334988.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Ryan Simpson"}, {"type": "SSN", "start": 42, "end": 51, "value": "340334988"}]}
+{"id": 161, "text": "Applicant: Mary Long, DOB: October 25, 1972, phone (337) 212-7903", "spans": [{"type": "PERSON", "start": 11, "end": 20, "value": "Mary Long"}, {"type": "DOB", "start": 27, "end": 43, "value": "October 25, 1972"}, {"type": "PHONE", "start": 51, "end": 65, "value": "(337) 212-7903"}]}
+{"id": 162, "text": "Please charge card 5141-3748-4777-1837 and email the receipt to tonicooper@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5141-3748-4777-1837"}, {"type": "EMAIL", "start": 64, "end": 86, "value": "tonicooper@example.net"}]}
+{"id": 163, "text": "Amex 347047187463313 was declined for order #9855487.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "347047187463313"}]}
+{"id": 164, "text": "Ship to 2323 Daniel St, South Veronica, AR 17516 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 48, "value": "2323 Daniel St, South Veronica, AR 17516"}]}
+{"id": 165, "text": "Dear Alexis Garrett, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Alexis Garrett"}]}
+{"id": 166, "text": "Login from 221.200.160.190 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 26, "value": "221.200.160.190"}]}
+{"id": 167, "text": "She was born on 1947-09-29 in Lake Maureenhaven.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1947-09-29"}]}
+{"id": 168, "text": "Customer: Ellen Campbell, contact heatherwilliams@example.org or 336.817.8335.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Ellen Campbell"}, {"type": "EMAIL", "start": 34, "end": 61, "value": "heatherwilliams@example.org"}, {"type": "PHONE", "start": 65, "end": 77, "value": "336.817.8335"}]}
+{"id": 169, "text": "Text me at 316-920-5983 about the $514.62 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "316-920-5983"}]}
+{"id": 170, "text": "The meeting moved to 12/14/1978 in room 503.", "spans": []}
+{"id": 171, "text": "Tracking number 1ZUP704558 ships to ZIP 05016.", "spans": []}
+{"id": 172, "text": "What APR does the Citi card charge after 11 months?", "spans": []}
+{"id": 173, "text": "Tammy Collins called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Tammy Collins"}]}
+{"id": 174, "text": "My social is one four four four three two four three four.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "one four four four three two four three four"}]}
+{"id": 175, "text": "I live at 324 white isle.", "spans": [{"type": "ADDRESS", "start": 10, "end": 24, "value": "324 white isle"}]}
+{"id": 176, "text": "Hi, my name is Patrick Wells and my SSN is 124-43-0029.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Patrick Wells"}, {"type": "SSN", "start": 43, "end": 54, "value": "124-43-0029"}]}
+{"id": 177, "text": "Applicant: Wesley Harris, DOB: 1972-09-03, phone (608) 322-3207", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Wesley Harris"}, {"type": "DOB", "start": 31, "end": 41, "value": "1972-09-03"}, {"type": "PHONE", "start": 49, "end": 63, "value": "(608) 322-3207"}]}
+{"id": 178, "text": "Please charge card 5544 5166 9156 4048 and email the receipt to davislisa@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5544 5166 9156 4048"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "davislisa@example.org"}]}
+{"id": 179, "text": "Amex 344234685356065 was declined for order #9397144.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "344234685356065"}]}
+{"id": 180, "text": "Ship to 3334 Ross Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "3334 Ross Court"}]}
+{"id": 181, "text": "Dear Christopher Rosario, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 24, "value": "Christopher Rosario"}]}
+{"id": 182, "text": "Login from 169.39.190.154 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "169.39.190.154"}]}
+{"id": 183, "text": "She was born on 10/30/1983 in Duranfort.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "10/30/1983"}]}
+{"id": 184, "text": "Customer: Edward Ramsey, contact bradleyconley@example.net or 950-620-7386.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Edward Ramsey"}, {"type": "EMAIL", "start": 33, "end": 58, "value": "bradleyconley@example.net"}, {"type": "PHONE", "start": 62, "end": 74, "value": "950-620-7386"}]}
+{"id": 185, "text": "Text me at (860) 493-7955 about the $568.16 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(860) 493-7955"}]}
+{"id": 186, "text": "The meeting moved to 08/25/2005 in room 274.", "spans": []}
+{"id": 187, "text": "Tracking number 1ZRL828890 ships to ZIP 93717.", "spans": []}
+{"id": 188, "text": "What APR does the Chase card charge after 19 months?", "spans": []}
+{"id": 189, "text": "Felicia Steele called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Felicia Steele"}]}
+{"id": 190, "text": "My social is three three three three three four two three four.", "spans": [{"type": "SSN", "start": 13, "end": 62, "value": "three three three three three four two three four"}]}
+{"id": 191, "text": "I live at 571 christopher canyon.", "spans": [{"type": "ADDRESS", "start": 10, "end": 32, "value": "571 christopher canyon"}]}
+{"id": 192, "text": "Hi, my name is Dean Ward and my SSN is 686-51-1962.", "spans": [{"type": "PERSON", "start": 15, "end": 24, "value": "Dean Ward"}, {"type": "SSN", "start": 39, "end": 50, "value": "686-51-1962"}]}
+{"id": 193, "text": "Applicant: Daniel Houston, DOB: August 7, 1976, phone +1 366-276-3405", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Daniel Houston"}, {"type": "DOB", "start": 32, "end": 46, "value": "August 7, 1976"}, {"type": "PHONE", "start": 54, "end": 69, "value": "+1 366-276-3405"}]}
+{"id": 194, "text": "Please charge card 5537 5762 8331 2585 and email the receipt to simserin@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5537 5762 8331 2585"}, {"type": "EMAIL", "start": 64, "end": 84, "value": "simserin@example.com"}]}
+{"id": 195, "text": "Amex 373549306668364 was declined for order #4633872.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "373549306668364"}]}
+{"id": 196, "text": "Ship to 1017 Baker Drive, Salinashaven, MH 70650 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 48, "value": "1017 Baker Drive, Salinashaven, MH 70650"}]}
+{"id": 197, "text": "Dear Christopher Fox, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 20, "value": "Christopher Fox"}]}
+{"id": 198, "text": "Login from 191.41.217.36 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "191.41.217.36"}]}
+{"id": 199, "text": "She was born on 1954-03-28 in Port Josephborough.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1954-03-28"}]}
+{"id": 200, "text": "Customer: Jerry Santos, contact ysnyder@example.org or 789-568-2062.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Jerry Santos"}, {"type": "EMAIL", "start": 32, "end": 51, "value": "ysnyder@example.org"}, {"type": "PHONE", "start": 55, "end": 67, "value": "789-568-2062"}]}
+{"id": 201, "text": "Text me at +1 295-477-4070 about the $414.82 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 295-477-4070"}]}
+{"id": 202, "text": "The meeting moved to 03/22/1997 in room 556.", "spans": []}
+{"id": 203, "text": "Tracking number 1ZJV409319 ships to ZIP 33785.", "spans": []}
+{"id": 204, "text": "What APR does the Chase card charge after 15 months?", "spans": []}
+{"id": 205, "text": "Denise Schwartz called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "Denise Schwartz"}]}
+{"id": 206, "text": "My social is one two one four four five four one one.", "spans": [{"type": "SSN", "start": 13, "end": 52, "value": "one two one four four five four one one"}]}
+{"id": 207, "text": "I live at 401 alexander circle.", "spans": [{"type": "ADDRESS", "start": 10, "end": 30, "value": "401 alexander circle"}]}
+{"id": 208, "text": "Hi, my name is Todd Compton and my SSN is 847 68 7671.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Todd Compton"}, {"type": "SSN", "start": 42, "end": 53, "value": "847 68 7671"}]}
+{"id": 209, "text": "Applicant: Cory Robinson, DOB: 07/28/1971, phone 312-429-2529", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Cory Robinson"}, {"type": "DOB", "start": 31, "end": 41, "value": "07/28/1971"}, {"type": "PHONE", "start": 49, "end": 61, "value": "312-429-2529"}]}
+{"id": 210, "text": "Please charge card 5517180023904241 and email the receipt to steven71@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5517180023904241"}, {"type": "EMAIL", "start": 61, "end": 81, "value": "steven71@example.net"}]}
+{"id": 211, "text": "Amex 371114893643908 was declined for order #275517.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "371114893643908"}]}
+{"id": 212, "text": "Ship to 4941 Gonzalez Court, South Andremouth, CA 66904 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 55, "value": "4941 Gonzalez Court, South Andremouth, CA 66904"}]}
+{"id": 213, "text": "Dear Tammy Cole, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 15, "value": "Tammy Cole"}]}
+{"id": 214, "text": "Login from 121.173.191.34 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "121.173.191.34"}]}
+{"id": 215, "text": "She was born on 2002-09-27 in North Bonnie.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "2002-09-27"}]}
+{"id": 216, "text": "Customer: Donald Warren, contact david84@example.org or +1 524-860-3970.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Donald Warren"}, {"type": "EMAIL", "start": 33, "end": 52, "value": "david84@example.org"}, {"type": "PHONE", "start": 56, "end": 71, "value": "+1 524-860-3970"}]}
+{"id": 217, "text": "Text me at 739-440-8962 about the $34.52 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "739-440-8962"}]}
+{"id": 218, "text": "The meeting moved to 12/20/2009 in room 821.", "spans": []}
+{"id": 219, "text": "Tracking number 1ZAF377602 ships to ZIP 89838.", "spans": []}
+{"id": 220, "text": "What APR does the Discover card charge after 15 months?", "spans": []}
+{"id": 221, "text": "Shannon Turner called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Shannon Turner"}]}
+{"id": 222, "text": "My social is one one two four four one three two four.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "one one two four four one three two four"}]}
+{"id": 223, "text": "I live at 948 robert lane.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "948 robert lane"}]}
+{"id": 224, "text": "Hi, my name is Leslie Larsen and my SSN is 380-30-8077.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Leslie Larsen"}, {"type": "SSN", "start": 43, "end": 54, "value": "380-30-8077"}]}
+{"id": 225, "text": "Applicant: Aaron Christensen, DOB: January 31, 1997, phone 547.935.6890", "spans": [{"type": "PERSON", "start": 11, "end": 28, "value": "Aaron Christensen"}, {"type": "DOB", "start": 35, "end": 51, "value": "January 31, 1997"}, {"type": "PHONE", "start": 59, "end": 71, "value": "547.935.6890"}]}
+{"id": 226, "text": "Please charge card 5563 0481 3734 3379 and email the receipt to casejames@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5563 0481 3734 3379"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "casejames@example.org"}]}
+{"id": 227, "text": "Amex 374197923760922 was declined for order #6701163.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "374197923760922"}]}
+{"id": 228, "text": "Ship to 3489 Valenzuela Street before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 30, "value": "3489 Valenzuela Street"}]}
+{"id": 229, "text": "Dear Yolanda Lawrence, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 21, "value": "Yolanda Lawrence"}]}
+{"id": 230, "text": "Login from 59.101.55.91 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "59.101.55.91"}]}
+{"id": 231, "text": "She was born on December 28, 1990 in West Cristianport.", "spans": [{"type": "DOB", "start": 16, "end": 33, "value": "December 28, 1990"}]}
+{"id": 232, "text": "Customer: Cynthia Hernandez, contact ryan53@example.com or (346) 625-0849.", "spans": [{"type": "PERSON", "start": 10, "end": 27, "value": "Cynthia Hernandez"}, {"type": "EMAIL", "start": 37, "end": 55, "value": "ryan53@example.com"}, {"type": "PHONE", "start": 59, "end": 73, "value": "(346) 625-0849"}]}
+{"id": 233, "text": "Text me at 389.602.7366 about the $755.14 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "389.602.7366"}]}
+{"id": 234, "text": "The meeting moved to 08/14/2014 in room 181.", "spans": []}
+{"id": 235, "text": "Tracking number 1ZUF606883 ships to ZIP 06985.", "spans": []}
+{"id": 236, "text": "What APR does the Citi card charge after 16 months?", "spans": []}
+{"id": 237, "text": "Sarah Jenkins called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Sarah Jenkins"}]}
+{"id": 238, "text": "My social is two two five four one three four three three.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "two two five four one three four three three"}]}
+{"id": 239, "text": "I live at 454 deanna heights.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "454 deanna heights"}]}
+{"id": 240, "text": "Hi, my name is Todd Barr and my SSN is 174-14-0048.", "spans": [{"type": "PERSON", "start": 15, "end": 24, "value": "Todd Barr"}, {"type": "SSN", "start": 39, "end": 50, "value": "174-14-0048"}]}
+{"id": 241, "text": "Applicant: Andrea Jackson, DOB: 1966-02-11, phone (283) 559-6884", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Andrea Jackson"}, {"type": "DOB", "start": 32, "end": 42, "value": "1966-02-11"}, {"type": "PHONE", "start": 50, "end": 64, "value": "(283) 559-6884"}]}
+{"id": 242, "text": "Please charge card 5536-5461-0735-8735 and email the receipt to kenneth46@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5536-5461-0735-8735"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "kenneth46@example.net"}]}
+{"id": 243, "text": "Amex 377063606071044 was declined for order #3370574.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "377063606071044"}]}
+{"id": 244, "text": "Ship to 9923 Allen St, Grantfurt, DE 22433 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 42, "value": "9923 Allen St, Grantfurt, DE 22433"}]}
+{"id": 245, "text": "Dear Dawn Jones, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 15, "value": "Dawn Jones"}]}
+{"id": 246, "text": "Login from 15.244.5.188 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "15.244.5.188"}]}
+{"id": 247, "text": "She was born on 1976-01-03 in Escobarmouth.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1976-01-03"}]}
+{"id": 248, "text": "Customer: Ronald Kelley, contact christopherpeterson@example.org or 479.543.0714.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Ronald Kelley"}, {"type": "EMAIL", "start": 33, "end": 64, "value": "christopherpeterson@example.org"}, {"type": "PHONE", "start": 68, "end": 80, "value": "479.543.0714"}]}
+{"id": 249, "text": "Text me at 965.933.5185 about the $309.00 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "965.933.5185"}]}
+{"id": 250, "text": "The meeting moved to 02/23/1988 in room 838.", "spans": []}
+{"id": 251, "text": "Tracking number 1ZYA549306 ships to ZIP 98259.", "spans": []}
+{"id": 252, "text": "What APR does the Discover card charge after 8 months?", "spans": []}
+{"id": 253, "text": "Alexandria Bennett called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 18, "value": "Alexandria Bennett"}]}
+{"id": 254, "text": "My social is one two one four four four three four four.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "one two one four four four three four four"}]}
+{"id": 255, "text": "I live at 136 goodwin parks.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "136 goodwin parks"}]}
+{"id": 256, "text": "Hi, my name is Joshua Ponce and my SSN is 509-24-0143.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Joshua Ponce"}, {"type": "SSN", "start": 42, "end": 53, "value": "509-24-0143"}]}
+{"id": 257, "text": "Applicant: David Gordon, DOB: October 16, 1981, phone 355.821.3868", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "David Gordon"}, {"type": "DOB", "start": 30, "end": 46, "value": "October 16, 1981"}, {"type": "PHONE", "start": 54, "end": 66, "value": "355.821.3868"}]}
+{"id": 258, "text": "Please charge card 5175918362361074 and email the receipt to christophermosley@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5175918362361074"}, {"type": "EMAIL", "start": 61, "end": 90, "value": "christophermosley@example.com"}]}
+{"id": 259, "text": "Amex 372611491316778 was declined for order #3005677.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "372611491316778"}]}
+{"id": 260, "text": "Ship to 2178 Ross Ave, Reynoldsport, PR 03359 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 45, "value": "2178 Ross Ave, Reynoldsport, PR 03359"}]}
+{"id": 261, "text": "Dear David Coleman, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "David Coleman"}]}
+{"id": 262, "text": "Login from 191.37.3.131 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "191.37.3.131"}]}
+{"id": 263, "text": "She was born on 2006-07-07 in Smithfurt.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "2006-07-07"}]}
+{"id": 264, "text": "Customer: Sarah Hebert, contact pcompton@example.org or (836) 890-3849.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Sarah Hebert"}, {"type": "EMAIL", "start": 32, "end": 52, "value": "pcompton@example.org"}, {"type": "PHONE", "start": 56, "end": 70, "value": "(836) 890-3849"}]}
+{"id": 265, "text": "Text me at 501.500.4577 about the $386.32 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "501.500.4577"}]}
+{"id": 266, "text": "The meeting moved to 09/20/1982 in room 855.", "spans": []}
+{"id": 267, "text": "Tracking number 1ZXC281718 ships to ZIP 00680.", "spans": []}
+{"id": 268, "text": "What APR does the Chase card charge after 12 months?", "spans": []}
+{"id": 269, "text": "Kimberly Hall called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Kimberly Hall"}]}
+{"id": 270, "text": "My social is four two two two two two three five two.", "spans": [{"type": "SSN", "start": 13, "end": 52, "value": "four two two two two two three five two"}]}
+{"id": 271, "text": "I live at 335 debbie hollow.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "335 debbie hollow"}]}
+{"id": 272, "text": "Hi, my name is Sydney Sims and my SSN is 067-51-4124.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Sydney Sims"}, {"type": "SSN", "start": 41, "end": 52, "value": "067-51-4124"}]}
+{"id": 273, "text": "Applicant: Allison Kim, DOB: August 4, 1991, phone +1 739-436-1647", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Allison Kim"}, {"type": "DOB", "start": 29, "end": 43, "value": "August 4, 1991"}, {"type": "PHONE", "start": 51, "end": 66, "value": "+1 739-436-1647"}]}
+{"id": 274, "text": "Please charge card 4107 3750 4310 3993 and email the receipt to jonesalice@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4107 3750 4310 3993"}, {"type": "EMAIL", "start": 64, "end": 86, "value": "jonesalice@example.net"}]}
+{"id": 275, "text": "Amex 345827940199532 was declined for order #728382.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "345827940199532"}]}
+{"id": 276, "text": "Ship to 5571 Lee Drive before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 22, "value": "5571 Lee Drive"}]}
+{"id": 277, "text": "Dear Kevin Murray, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Kevin Murray"}]}
+{"id": 278, "text": "Login from 202.124.22.75 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "202.124.22.75"}]}
+{"id": 279, "text": "She was born on 07/11/1970 in New John.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "07/11/1970"}]}
+{"id": 280, "text": "Customer: Susan Bush, contact brian37@example.net or 409-461-0626.", "spans": [{"type": "PERSON", "start": 10, "end": 20, "value": "Susan Bush"}, {"type": "EMAIL", "start": 30, "end": 49, "value": "brian37@example.net"}, {"type": "PHONE", "start": 53, "end": 65, "value": "409-461-0626"}]}
+{"id": 281, "text": "Text me at 212.535.6700 about the $194.79 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "212.535.6700"}]}
+{"id": 282, "text": "The meeting moved to 10/11/2006 in room 419.", "spans": []}
+{"id": 283, "text": "Tracking number 1ZFC143653 ships to ZIP 91703.", "spans": []}
+{"id": 284, "text": "What APR does the Citi card charge after 12 months?", "spans": []}
+{"id": 285, "text": "Matthew Fisher called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Matthew Fisher"}]}
+{"id": 286, "text": "My social is one four five four one four one four five.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "one four five four one four one four five"}]}
+{"id": 287, "text": "I live at 159 gonzalez union.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "159 gonzalez union"}]}
+{"id": 288, "text": "Hi, my name is Kelly Bruce and my SSN is 655-69-1494.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Kelly Bruce"}, {"type": "SSN", "start": 41, "end": 52, "value": "655-69-1494"}]}
+{"id": 289, "text": "Applicant: Carlos Simpson, DOB: 1950-06-16, phone 913.477.6713", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Carlos Simpson"}, {"type": "DOB", "start": 32, "end": 42, "value": "1950-06-16"}, {"type": "PHONE", "start": 50, "end": 62, "value": "913.477.6713"}]}
+{"id": 290, "text": "Please charge card 5546 0495 6605 3663 and email the receipt to jerrywalker@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5546 0495 6605 3663"}, {"type": "EMAIL", "start": 64, "end": 87, "value": "jerrywalker@example.com"}]}
+{"id": 291, "text": "Amex 346261169572204 was declined for order #967304.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "346261169572204"}]}
+{"id": 292, "text": "Ship to 2335 Rodriguez Court, Bishopbury, NM 55161 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 50, "value": "2335 Rodriguez Court, Bishopbury, NM 55161"}]}
+{"id": 293, "text": "Dear Renee Brown, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "Renee Brown"}]}
+{"id": 294, "text": "Login from 153.46.114.199 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "153.46.114.199"}]}
+{"id": 295, "text": "She was born on 10/18/1939 in New Donaldton.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "10/18/1939"}]}
+{"id": 296, "text": "Customer: Jennifer White, contact uvillanueva@example.net or 787-837-6075.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Jennifer White"}, {"type": "EMAIL", "start": 34, "end": 57, "value": "uvillanueva@example.net"}, {"type": "PHONE", "start": 61, "end": 73, "value": "787-837-6075"}]}
+{"id": 297, "text": "Text me at 350-556-4641 about the $538.21 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "350-556-4641"}]}
+{"id": 298, "text": "The meeting moved to 06/07/1976 in room 168.", "spans": []}
+{"id": 299, "text": "Tracking number 1ZVD125328 ships to ZIP 04681.", "spans": []}
+{"id": 300, "text": "What APR does the Citi card charge after 18 months?", "spans": []}
+{"id": 301, "text": "Larry Swanson called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Larry Swanson"}]}
+{"id": 302, "text": "My social is four two three two one four three one five.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "four two three two one four three one five"}]}
+{"id": 303, "text": "I live at 949 mercer mills.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "949 mercer mills"}]}
+{"id": 304, "text": "Hi, my name is Gary Smith and my SSN is 652501414.", "spans": [{"type": "PERSON", "start": 15, "end": 25, "value": "Gary Smith"}, {"type": "SSN", "start": 40, "end": 49, "value": "652501414"}]}
+{"id": 305, "text": "Applicant: Joshua Bell, DOB: July 31, 2005, phone +1 365-855-3638", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Joshua Bell"}, {"type": "DOB", "start": 29, "end": 42, "value": "July 31, 2005"}, {"type": "PHONE", "start": 50, "end": 65, "value": "+1 365-855-3638"}]}
+{"id": 306, "text": "Please charge card 5537 2930 6826 5125 and email the receipt to hoffmankatherine@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5537 2930 6826 5125"}, {"type": "EMAIL", "start": 64, "end": 92, "value": "hoffmankatherine@example.com"}]}
+{"id": 307, "text": "Amex 340805169784643 was declined for order #9874819.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "340805169784643"}]}
+{"id": 308, "text": "Ship to 6976 Kelly Ave, Lynnchester, CO 06957 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 45, "value": "6976 Kelly Ave, Lynnchester, CO 06957"}]}
+{"id": 309, "text": "Dear Janet Gonzalez, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Janet Gonzalez"}]}
+{"id": 310, "text": "Login from 7.146.30.163 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "7.146.30.163"}]}
+{"id": 311, "text": "She was born on December 1, 1949 in Jofort.", "spans": [{"type": "DOB", "start": 16, "end": 32, "value": "December 1, 1949"}]}
+{"id": 312, "text": "Customer: Anthony Jenkins, contact cwilliams@example.com or +1 577-657-8250.", "spans": [{"type": "PERSON", "start": 10, "end": 25, "value": "Anthony Jenkins"}, {"type": "EMAIL", "start": 35, "end": 56, "value": "cwilliams@example.com"}, {"type": "PHONE", "start": 60, "end": 75, "value": "+1 577-657-8250"}]}
+{"id": 313, "text": "Text me at +1 384-223-0057 about the $481.30 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 384-223-0057"}]}
+{"id": 314, "text": "The meeting moved to 07/22/1973 in room 557.", "spans": []}
+{"id": 315, "text": "Tracking number 1ZXR043195 ships to ZIP 44406.", "spans": []}
+{"id": 316, "text": "What APR does the Discover card charge after 20 months?", "spans": []}
+{"id": 317, "text": "Susan Jensen called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Susan Jensen"}]}
+{"id": 318, "text": "My social is two four four one one two three four three.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "two four four one one two three four three"}]}
+{"id": 319, "text": "I live at 94 francis spurs.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "94 francis spurs"}]}
+{"id": 320, "text": "Hi, my name is Leslie Hill and my SSN is 823578264.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Leslie Hill"}, {"type": "SSN", "start": 41, "end": 50, "value": "823578264"}]}
+{"id": 321, "text": "Applicant: Adam Campos, DOB: September 24, 2002, phone (242) 241-2134", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Adam Campos"}, {"type": "DOB", "start": 29, "end": 47, "value": "September 24, 2002"}, {"type": "PHONE", "start": 55, "end": 69, "value": "(242) 241-2134"}]}
+{"id": 322, "text": "Please charge card 5558-1086-2019-1326 and email the receipt to johnsonjesus@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5558-1086-2019-1326"}, {"type": "EMAIL", "start": 64, "end": 88, "value": "johnsonjesus@example.com"}]}
+{"id": 323, "text": "Amex 372315942594724 was declined for order #4364120.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "372315942594724"}]}
+{"id": 324, "text": "Ship to 7867 Baldwin Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 26, "value": "7867 Baldwin Court"}]}
+{"id": 325, "text": "Dear Robin Briggs, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Robin Briggs"}]}
+{"id": 326, "text": "Login from 95.199.82.67 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "95.199.82.67"}]}
+{"id": 327, "text": "She was born on March 7, 1949 in Mackenzieberg.", "spans": [{"type": "DOB", "start": 16, "end": 29, "value": "March 7, 1949"}]}
+{"id": 328, "text": "Customer: Catherine Murphy, contact steven91@example.net or 470-830-8290.", "spans": [{"type": "PERSON", "start": 10, "end": 26, "value": "Catherine Murphy"}, {"type": "EMAIL", "start": 36, "end": 56, "value": "steven91@example.net"}, {"type": "PHONE", "start": 60, "end": 72, "value": "470-830-8290"}]}
+{"id": 329, "text": "Text me at 527-581-0603 about the $191.51 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "527-581-0603"}]}
+{"id": 330, "text": "The meeting moved to 03/19/1981 in room 265.", "spans": []}
+{"id": 331, "text": "Tracking number 1ZJI236107 ships to ZIP 43198.", "spans": []}
+{"id": 332, "text": "What APR does the Discover card charge after 14 months?", "spans": []}
+{"id": 333, "text": "Eugene Simmons called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Eugene Simmons"}]}
+{"id": 334, "text": "My social is three four two three one five one three four.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "three four two three one five one three four"}]}
+{"id": 335, "text": "I live at 569 vanessa greens.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "569 vanessa greens"}]}
+{"id": 336, "text": "Hi, my name is Colleen Clark and my SSN is 534-75-1714.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Colleen Clark"}, {"type": "SSN", "start": 43, "end": 54, "value": "534-75-1714"}]}
+{"id": 337, "text": "Applicant: Robert Mcneil, DOB: October 17, 2006, phone 845.603.6086", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Robert Mcneil"}, {"type": "DOB", "start": 31, "end": 47, "value": "October 17, 2006"}, {"type": "PHONE", "start": 55, "end": 67, "value": "845.603.6086"}]}
+{"id": 338, "text": "Please charge card 5159-2551-7329-0485 and email the receipt to jimbutler@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5159-2551-7329-0485"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "jimbutler@example.net"}]}
+{"id": 339, "text": "Amex 379500324966854 was declined for order #901554.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "379500324966854"}]}
+{"id": 340, "text": "Ship to 8002 Vance Avenue before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 25, "value": "8002 Vance Avenue"}]}
+{"id": 341, "text": "Dear Katherine Chan, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Katherine Chan"}]}
+{"id": 342, "text": "Login from 49.225.163.146 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "49.225.163.146"}]}
+{"id": 343, "text": "She was born on March 18, 1977 in Jonathanview.", "spans": [{"type": "DOB", "start": 16, "end": 30, "value": "March 18, 1977"}]}
+{"id": 344, "text": "Customer: James Wright, contact joecampbell@example.net or (869) 246-0365.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "James Wright"}, {"type": "EMAIL", "start": 32, "end": 55, "value": "joecampbell@example.net"}, {"type": "PHONE", "start": 59, "end": 73, "value": "(869) 246-0365"}]}
+{"id": 345, "text": "Text me at 203.780.5815 about the $113.66 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "203.780.5815"}]}
+{"id": 346, "text": "The meeting moved to 09/12/1980 in room 465.", "spans": []}
+{"id": 347, "text": "Tracking number 1ZOP164388 ships to ZIP 13679.", "spans": []}
+{"id": 348, "text": "What APR does the Discover card charge after 13 months?", "spans": []}
+{"id": 349, "text": "Denise Ritter called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Denise Ritter"}]}
+{"id": 350, "text": "My social is four five three five two two three five four.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "four five three five two two three five four"}]}
+{"id": 351, "text": "I live at 163 adam viaduct.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "163 adam viaduct"}]}
+{"id": 352, "text": "Hi, my name is Jerry West and my SSN is 138-02-3991.", "spans": [{"type": "PERSON", "start": 15, "end": 25, "value": "Jerry West"}, {"type": "SSN", "start": 40, "end": 51, "value": "138-02-3991"}]}
+{"id": 353, "text": "Applicant: Nathaniel Mcdowell, DOB: 1952-10-29, phone 299.265.2370", "spans": [{"type": "PERSON", "start": 11, "end": 29, "value": "Nathaniel Mcdowell"}, {"type": "DOB", "start": 36, "end": 46, "value": "1952-10-29"}, {"type": "PHONE", "start": 54, "end": 66, "value": "299.265.2370"}]}
+{"id": 354, "text": "Please charge card 5140 0859 9798 7327 and email the receipt to lopezteresa@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5140 0859 9798 7327"}, {"type": "EMAIL", "start": 64, "end": 87, "value": "lopezteresa@example.net"}]}
+{"id": 355, "text": "Amex 340806232010982 was declined for order #3409442.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "340806232010982"}]}
+{"id": 356, "text": "Ship to 6770 Lee Avenue before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "6770 Lee Avenue"}]}
+{"id": 357, "text": "Dear Jordan Strickland, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 22, "value": "Jordan Strickland"}]}
+{"id": 358, "text": "Login from 204.216.163.55 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "204.216.163.55"}]}
+{"id": 359, "text": "She was born on May 13, 1982 in Jeffstad.", "spans": [{"type": "DOB", "start": 16, "end": 28, "value": "May 13, 1982"}]}
+{"id": 360, "text": "Customer: Matthew Williams, contact benjamin30@example.com or +1 823-858-8305.", "spans": [{"type": "PERSON", "start": 10, "end": 26, "value": "Matthew Williams"}, {"type": "EMAIL", "start": 36, "end": 58, "value": "benjamin30@example.com"}, {"type": "PHONE", "start": 62, "end": 77, "value": "+1 823-858-8305"}]}
+{"id": 361, "text": "Text me at 828.378.8332 about the $70.38 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "828.378.8332"}]}
+{"id": 362, "text": "The meeting moved to 03/30/1993 in room 740.", "spans": []}
+{"id": 363, "text": "Tracking number 1ZCY529413 ships to ZIP 65463.", "spans": []}
+{"id": 364, "text": "What APR does the Citi card charge after 21 months?", "spans": []}
+{"id": 365, "text": "Amy Brown called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 9, "value": "Amy Brown"}]}
+{"id": 366, "text": "My social is five one four four four one four two two.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "five one four four four one four two two"}]}
+{"id": 367, "text": "I live at 108 laura shore.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "108 laura shore"}]}
+{"id": 368, "text": "Hi, my name is Andrea Fowler and my SSN is 268-30-0636.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Andrea Fowler"}, {"type": "SSN", "start": 43, "end": 54, "value": "268-30-0636"}]}
+{"id": 369, "text": "Applicant: Christopher Martin, DOB: 1986-08-05, phone (968) 911-4313", "spans": [{"type": "PERSON", "start": 11, "end": 29, "value": "Christopher Martin"}, {"type": "DOB", "start": 36, "end": 46, "value": "1986-08-05"}, {"type": "PHONE", "start": 54, "end": 68, "value": "(968) 911-4313"}]}
+{"id": 370, "text": "Please charge card 5186 8443 1802 4334 and email the receipt to qmcneil@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5186 8443 1802 4334"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "qmcneil@example.com"}]}
+{"id": 371, "text": "Amex 373659368778009 was declined for order #7435233.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "373659368778009"}]}
+{"id": 372, "text": "Ship to 9345 Butler Ave, West Juliestad, MT 55085 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 49, "value": "9345 Butler Ave, West Juliestad, MT 55085"}]}
+{"id": 373, "text": "Dear Andrew Wang, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "Andrew Wang"}]}
+{"id": 374, "text": "Login from 163.39.188.218 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "163.39.188.218"}]}
+{"id": 375, "text": "She was born on 05/08/1964 in Harristown.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "05/08/1964"}]}
+{"id": 376, "text": "Customer: Ryan Moore, contact hooverrichard@example.com or (601) 837-9590.", "spans": [{"type": "PERSON", "start": 10, "end": 20, "value": "Ryan Moore"}, {"type": "EMAIL", "start": 30, "end": 55, "value": "hooverrichard@example.com"}, {"type": "PHONE", "start": 59, "end": 73, "value": "(601) 837-9590"}]}
+{"id": 377, "text": "Text me at (779) 375-2369 about the $32.14 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(779) 375-2369"}]}
+{"id": 378, "text": "The meeting moved to 03/11/1996 in room 209.", "spans": []}
+{"id": 379, "text": "Tracking number 1ZPZ220082 ships to ZIP 52499.", "spans": []}
+{"id": 380, "text": "What APR does the Discover card charge after 11 months?", "spans": []}
+{"id": 381, "text": "Christopher Dean called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 16, "value": "Christopher Dean"}]}
+{"id": 382, "text": "My social is three two one one one two one one one.", "spans": [{"type": "SSN", "start": 13, "end": 50, "value": "three two one one one two one one one"}]}
+{"id": 383, "text": "I live at 68 mclaughlin extension.", "spans": [{"type": "ADDRESS", "start": 10, "end": 33, "value": "68 mclaughlin extension"}]}
+{"id": 384, "text": "Hi, my name is Dustin Campbell and my SSN is 879-76-5955.", "spans": [{"type": "PERSON", "start": 15, "end": 30, "value": "Dustin Campbell"}, {"type": "SSN", "start": 45, "end": 56, "value": "879-76-5955"}]}
+{"id": 385, "text": "Applicant: Adriana Schaefer, DOB: October 8, 1943, phone (881) 267-6288", "spans": [{"type": "PERSON", "start": 11, "end": 27, "value": "Adriana Schaefer"}, {"type": "DOB", "start": 34, "end": 49, "value": "October 8, 1943"}, {"type": "PHONE", "start": 57, "end": 71, "value": "(881) 267-6288"}]}
+{"id": 386, "text": "Please charge card 4331-0014-7121-3454 and email the receipt to ymolina@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4331-0014-7121-3454"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "ymolina@example.org"}]}
+{"id": 387, "text": "Amex 374054405598744 was declined for order #619780.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "374054405598744"}]}
+{"id": 388, "text": "Ship to 512 Turner Lane, South Leonardfurt, CO 93864 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 52, "value": "512 Turner Lane, South Leonardfurt, CO 93864"}]}
+{"id": 389, "text": "Dear Christine Summers, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 22, "value": "Christine Summers"}]}
+{"id": 390, "text": "Login from 107.141.158.154 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 26, "value": "107.141.158.154"}]}
+{"id": 391, "text": "She was born on March 1, 1981 in Port Thomas.", "spans": [{"type": "DOB", "start": 16, "end": 29, "value": "March 1, 1981"}]}
+{"id": 392, "text": "Customer: Ariana Williams, contact patrickmartinez@example.org or (301) 555-7683.", "spans": [{"type": "PERSON", "start": 10, "end": 25, "value": "Ariana Williams"}, {"type": "EMAIL", "start": 35, "end": 62, "value": "patrickmartinez@example.org"}, {"type": "PHONE", "start": 66, "end": 80, "value": "(301) 555-7683"}]}
+{"id": 393, "text": "Text me at (751) 779-3548 about the $593.36 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(751) 779-3548"}]}
+{"id": 394, "text": "The meeting moved to 02/28/2025 in room 274.", "spans": []}
+{"id": 395, "text": "Tracking number 1ZYM308051 ships to ZIP 60234.", "spans": []}
+{"id": 396, "text": "What APR does the Chase card charge after 6 months?", "spans": []}
+{"id": 397, "text": "Andrea Sims called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 11, "value": "Andrea Sims"}]}
+{"id": 398, "text": "My social is five two three one one three four one four.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "five two three one one three four one four"}]}
+{"id": 399, "text": "I live at 712 banks inlet.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "712 banks inlet"}]}
+{"id": 400, "text": "Hi, my name is Brandi Simmons and my SSN is 817248104.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Brandi Simmons"}, {"type": "SSN", "start": 44, "end": 53, "value": "817248104"}]}
+{"id": 401, "text": "Applicant: Donna Griffin, DOB: 1967-10-30, phone 728-466-9470", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Donna Griffin"}, {"type": "DOB", "start": 31, "end": 41, "value": "1967-10-30"}, {"type": "PHONE", "start": 49, "end": 61, "value": "728-466-9470"}]}
+{"id": 402, "text": "Please charge card 5133-7211-7815-5164 and email the receipt to smithvalerie@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5133-7211-7815-5164"}, {"type": "EMAIL", "start": 64, "end": 88, "value": "smithvalerie@example.com"}]}
+{"id": 403, "text": "Amex 346053446882633 was declined for order #7832753.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "346053446882633"}]}
+{"id": 404, "text": "Ship to 8709 Young Avenue before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 25, "value": "8709 Young Avenue"}]}
+{"id": 405, "text": "Dear Carlos Howard, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "Carlos Howard"}]}
+{"id": 406, "text": "Login from 60.73.48.129 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "60.73.48.129"}]}
+{"id": 407, "text": "She was born on 1972-08-23 in North Danaland.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1972-08-23"}]}
+{"id": 408, "text": "Customer: Sandra Edwards, contact brownwilliam@example.com or 796-534-8548.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Sandra Edwards"}, {"type": "EMAIL", "start": 34, "end": 58, "value": "brownwilliam@example.com"}, {"type": "PHONE", "start": 62, "end": 74, "value": "796-534-8548"}]}
+{"id": 409, "text": "Text me at 662.877.9072 about the $178.59 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "662.877.9072"}]}
+{"id": 410, "text": "The meeting moved to 02/04/2007 in room 549.", "spans": []}
+{"id": 411, "text": "Tracking number 1ZIF201913 ships to ZIP 38234.", "spans": []}
+{"id": 412, "text": "What APR does the Discover card charge after 14 months?", "spans": []}
+{"id": 413, "text": "Sue Moon called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 8, "value": "Sue Moon"}]}
+{"id": 414, "text": "My social is five two two three four two five two three.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "five two two three four two five two three"}]}
+{"id": 415, "text": "I live at 309 gina stravenue.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "309 gina stravenue"}]}
+{"id": 416, "text": "Hi, my name is Sarah Jones and my SSN is 774-91-2533.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Sarah Jones"}, {"type": "SSN", "start": 41, "end": 52, "value": "774-91-2533"}]}
+{"id": 417, "text": "Applicant: Michael Avila, DOB: 06/02/1947, phone 941.534.9877", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Michael Avila"}, {"type": "DOB", "start": 31, "end": 41, "value": "06/02/1947"}, {"type": "PHONE", "start": 49, "end": 61, "value": "941.534.9877"}]}
+{"id": 418, "text": "Please charge card 4353-4121-3622-4468 and email the receipt to rebecca72@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4353-4121-3622-4468"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "rebecca72@example.com"}]}
+{"id": 419, "text": "Amex 341143670066386 was declined for order #5069634.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "341143670066386"}]}
+{"id": 420, "text": "Ship to 363 Shaw Blvd before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 21, "value": "363 Shaw Blvd"}]}
+{"id": 421, "text": "Dear John Watson, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "John Watson"}]}
+{"id": 422, "text": "Login from 103.157.38.12 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "103.157.38.12"}]}
+{"id": 423, "text": "She was born on 1947-08-07 in Erinfurt.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1947-08-07"}]}
+{"id": 424, "text": "Customer: Gary Glover, contact tatebrandon@example.com or (819) 955-6630.", "spans": [{"type": "PERSON", "start": 10, "end": 21, "value": "Gary Glover"}, {"type": "EMAIL", "start": 31, "end": 54, "value": "tatebrandon@example.com"}, {"type": "PHONE", "start": 58, "end": 72, "value": "(819) 955-6630"}]}
+{"id": 425, "text": "Text me at +1 959-448-7045 about the $871.29 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 959-448-7045"}]}
+{"id": 426, "text": "The meeting moved to 11/26/2024 in room 783.", "spans": []}
+{"id": 427, "text": "Tracking number 1ZIO788914 ships to ZIP 52176.", "spans": []}
+{"id": 428, "text": "What APR does the Discover card charge after 13 months?", "spans": []}
+{"id": 429, "text": "Joann Watson called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Joann Watson"}]}
+{"id": 430, "text": "My social is two one four four three three one four two.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "two one four four three three one four two"}]}
+{"id": 431, "text": "I live at 802 mooney ports.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "802 mooney ports"}]}
+{"id": 432, "text": "Hi, my name is Dustin Rivera and my SSN is 410-92-2564.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Dustin Rivera"}, {"type": "SSN", "start": 43, "end": 54, "value": "410-92-2564"}]}
+{"id": 433, "text": "Applicant: Christopher Hall, DOB: 1980-10-01, phone +1 695-666-0322", "spans": [{"type": "PERSON", "start": 11, "end": 27, "value": "Christopher Hall"}, {"type": "DOB", "start": 34, "end": 44, "value": "1980-10-01"}, {"type": "PHONE", "start": 52, "end": 67, "value": "+1 695-666-0322"}]}
+{"id": 434, "text": "Please charge card 5525-0671-0483-2385 and email the receipt to phillipszachary@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5525-0671-0483-2385"}, {"type": "EMAIL", "start": 64, "end": 91, "value": "phillipszachary@example.com"}]}
+{"id": 435, "text": "Amex 349783780585676 was declined for order #3624715.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "349783780585676"}]}
+{"id": 436, "text": "Ship to 6431 Fowler Avenue before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 26, "value": "6431 Fowler Avenue"}]}
+{"id": 437, "text": "Dear Kelly Garrett, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "Kelly Garrett"}]}
+{"id": 438, "text": "Login from 55.77.101.221 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "55.77.101.221"}]}
+{"id": 439, "text": "She was born on March 15, 2001 in South Jeremy.", "spans": [{"type": "DOB", "start": 16, "end": 30, "value": "March 15, 2001"}]}
+{"id": 440, "text": "Customer: Denise Johnson, contact bradleykevin@example.net or 829.564.0927.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Denise Johnson"}, {"type": "EMAIL", "start": 34, "end": 58, "value": "bradleykevin@example.net"}, {"type": "PHONE", "start": 62, "end": 74, "value": "829.564.0927"}]}
+{"id": 441, "text": "Text me at (481) 591-6548 about the $18.09 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(481) 591-6548"}]}
+{"id": 442, "text": "The meeting moved to 04/19/1990 in room 528.", "spans": []}
+{"id": 443, "text": "Tracking number 1ZNX369492 ships to ZIP 82280.", "spans": []}
+{"id": 444, "text": "What APR does the Chase card charge after 17 months?", "spans": []}
+{"id": 445, "text": "Maria Moore called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 11, "value": "Maria Moore"}]}
+{"id": 446, "text": "My social is five three one two three four five two four.", "spans": [{"type": "SSN", "start": 13, "end": 56, "value": "five three one two three four five two four"}]}
+{"id": 447, "text": "I live at 474 sharon gardens.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "474 sharon gardens"}]}
+{"id": 448, "text": "Hi, my name is Jasmine Hayes and my SSN is 218-22-2119.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Jasmine Hayes"}, {"type": "SSN", "start": 43, "end": 54, "value": "218-22-2119"}]}
+{"id": 449, "text": "Applicant: Bryce Thomas, DOB: May 29, 1984, phone 398-680-9208", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Bryce Thomas"}, {"type": "DOB", "start": 30, "end": 42, "value": "May 29, 1984"}, {"type": "PHONE", "start": 50, "end": 62, "value": "398-680-9208"}]}
+{"id": 450, "text": "Please charge card 4567-4827-5346-4624 and email the receipt to richard40@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4567-4827-5346-4624"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "richard40@example.org"}]}
+{"id": 451, "text": "Amex 344534577691523 was declined for order #5186326.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "344534577691523"}]}
+{"id": 452, "text": "Ship to 935 Newman Lane before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "935 Newman Lane"}]}
+{"id": 453, "text": "Dear Sharon Quinn, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Sharon Quinn"}]}
+{"id": 454, "text": "Login from 112.1.162.253 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "112.1.162.253"}]}
+{"id": 455, "text": "She was born on January 15, 1939 in South Jacobburgh.", "spans": [{"type": "DOB", "start": 16, "end": 32, "value": "January 15, 1939"}]}
+{"id": 456, "text": "Customer: Brian Maxwell, contact salazardiane@example.org or 533.343.8694.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Brian Maxwell"}, {"type": "EMAIL", "start": 33, "end": 57, "value": "salazardiane@example.org"}, {"type": "PHONE", "start": 61, "end": 73, "value": "533.343.8694"}]}
+{"id": 457, "text": "Text me at (849) 796-0245 about the $219.09 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(849) 796-0245"}]}
+{"id": 458, "text": "The meeting moved to 01/31/1978 in room 771.", "spans": []}
+{"id": 459, "text": "Tracking number 1ZLG389869 ships to ZIP 41052.", "spans": []}
+{"id": 460, "text": "What APR does the Chase card charge after 14 months?", "spans": []}
+{"id": 461, "text": "Bryce Garrett called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Bryce Garrett"}]}
+{"id": 462, "text": "My social is five one five two two two four three two.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "five one five two two two four three two"}]}
+{"id": 463, "text": "I live at 214 baldwin avenue.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "214 baldwin avenue"}]}
+{"id": 464, "text": "Hi, my name is Nicholas Kim and my SSN is 413692752.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Nicholas Kim"}, {"type": "SSN", "start": 42, "end": 51, "value": "413692752"}]}
+{"id": 465, "text": "Applicant: Rhonda Miller, DOB: September 7, 1983, phone 823.292.8986", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Rhonda Miller"}, {"type": "DOB", "start": 31, "end": 48, "value": "September 7, 1983"}, {"type": "PHONE", "start": 56, "end": 68, "value": "823.292.8986"}]}
+{"id": 466, "text": "Please charge card 4738171814632774 and email the receipt to jeremygarcia@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4738171814632774"}, {"type": "EMAIL", "start": 61, "end": 85, "value": "jeremygarcia@example.org"}]}
+{"id": 467, "text": "Amex 347727372890251 was declined for order #7951072.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "347727372890251"}]}
+{"id": 468, "text": "Ship to 8153 Schneider Way, West Patriciaview, VT 07386 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 55, "value": "8153 Schneider Way, West Patriciaview, VT 07386"}]}
+{"id": 469, "text": "Dear Joseph Spencer, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Joseph Spencer"}]}
+{"id": 470, "text": "Login from 24.125.78.142 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "24.125.78.142"}]}
+{"id": 471, "text": "She was born on 1957-05-29 in North Nicole.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1957-05-29"}]}
+{"id": 472, "text": "Customer: Alexis Green, contact meaganharris@example.org or (584) 636-6861.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Alexis Green"}, {"type": "EMAIL", "start": 32, "end": 56, "value": "meaganharris@example.org"}, {"type": "PHONE", "start": 60, "end": 74, "value": "(584) 636-6861"}]}
+{"id": 473, "text": "Text me at (385) 852-5904 about the $26.78 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(385) 852-5904"}]}
+{"id": 474, "text": "The meeting moved to 05/27/2012 in room 146.", "spans": []}
+{"id": 475, "text": "Tracking number 1ZYO536593 ships to ZIP 91313.", "spans": []}
+{"id": 476, "text": "What APR does the Discover card charge after 16 months?", "spans": []}
+{"id": 477, "text": "Tina Skinner called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Tina Skinner"}]}
+{"id": 478, "text": "My social is one five four four two one two four two.", "spans": [{"type": "SSN", "start": 13, "end": 52, "value": "one five four four two one two four two"}]}
+{"id": 479, "text": "I live at 347 kennedy pines.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "347 kennedy pines"}]}
+{"id": 480, "text": "Hi, my name is Heidi Mathews and my SSN is 097-85-6000.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Heidi Mathews"}, {"type": "SSN", "start": 43, "end": 54, "value": "097-85-6000"}]}
+{"id": 481, "text": "Applicant: Samuel Hardy, DOB: 1977-06-18, phone 739.767.3452", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Samuel Hardy"}, {"type": "DOB", "start": 30, "end": 40, "value": "1977-06-18"}, {"type": "PHONE", "start": 48, "end": 60, "value": "739.767.3452"}]}
+{"id": 482, "text": "Please charge card 5156480445765840 and email the receipt to kristina69@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5156480445765840"}, {"type": "EMAIL", "start": 61, "end": 83, "value": "kristina69@example.net"}]}
+{"id": 483, "text": "Amex 373715354291066 was declined for order #9399511.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "373715354291066"}]}
+{"id": 484, "text": "Ship to 8936 Miller Lane before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 24, "value": "8936 Miller Lane"}]}
+{"id": 485, "text": "Dear Christy Martin, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Christy Martin"}]}
+{"id": 486, "text": "Login from 193.14.182.11 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "193.14.182.11"}]}
+{"id": 487, "text": "She was born on 1938-01-30 in Lake Dawn.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1938-01-30"}]}
+{"id": 488, "text": "Customer: Brad Jones, contact jonesbrittany@example.com or (508) 311-0101.", "spans": [{"type": "PERSON", "start": 10, "end": 20, "value": "Brad Jones"}, {"type": "EMAIL", "start": 30, "end": 55, "value": "jonesbrittany@example.com"}, {"type": "PHONE", "start": 59, "end": 73, "value": "(508) 311-0101"}]}
+{"id": 489, "text": "Text me at (395) 686-9972 about the $812.64 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(395) 686-9972"}]}
+{"id": 490, "text": "The meeting moved to 04/29/1981 in room 656.", "spans": []}
+{"id": 491, "text": "Tracking number 1ZNH816133 ships to ZIP 04939.", "spans": []}
+{"id": 492, "text": "What APR does the Discover card charge after 18 months?", "spans": []}
+{"id": 493, "text": "Austin Abbott called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Austin Abbott"}]}
+{"id": 494, "text": "My social is five two five one two one four two one.", "spans": [{"type": "SSN", "start": 13, "end": 51, "value": "five two five one two one four two one"}]}
+{"id": 495, "text": "I live at 680 mandy roads.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "680 mandy roads"}]}
+{"id": 496, "text": "Hi, my name is Cynthia Woods and my SSN is 186-05-6908.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Cynthia Woods"}, {"type": "SSN", "start": 43, "end": 54, "value": "186-05-6908"}]}
+{"id": 497, "text": "Applicant: David Conner, DOB: January 4, 1983, phone 214.577.2272", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "David Conner"}, {"type": "DOB", "start": 30, "end": 45, "value": "January 4, 1983"}, {"type": "PHONE", "start": 53, "end": 65, "value": "214.577.2272"}]}
+{"id": 498, "text": "Please charge card 5544260506990797 and email the receipt to luis64@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5544260506990797"}, {"type": "EMAIL", "start": 61, "end": 79, "value": "luis64@example.org"}]}
+{"id": 499, "text": "Amex 341696710699276 was declined for order #7019210.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "341696710699276"}]}
+{"id": 500, "text": "Ship to 1672 Bell Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "1672 Bell Court"}]}
+{"id": 501, "text": "Dear Kayla Guzman, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Kayla Guzman"}]}
+{"id": 502, "text": "Login from 25.52.107.44 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "25.52.107.44"}]}
+{"id": 503, "text": "She was born on December 17, 1980 in Port Robertchester.", "spans": [{"type": "DOB", "start": 16, "end": 33, "value": "December 17, 1980"}]}
+{"id": 504, "text": "Customer: April Garcia, contact ibush@example.net or (684) 417-2486.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "April Garcia"}, {"type": "EMAIL", "start": 32, "end": 49, "value": "ibush@example.net"}, {"type": "PHONE", "start": 53, "end": 67, "value": "(684) 417-2486"}]}
+{"id": 505, "text": "Text me at (638) 204-0152 about the $884.11 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(638) 204-0152"}]}
+{"id": 506, "text": "The meeting moved to 04/23/1982 in room 323.", "spans": []}
+{"id": 507, "text": "Tracking number 1ZHM194260 ships to ZIP 38293.", "spans": []}
+{"id": 508, "text": "What APR does the Citi card charge after 10 months?", "spans": []}
+{"id": 509, "text": "Kathleen Levine called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "Kathleen Levine"}]}
+{"id": 510, "text": "My social is four one three five two four two one three.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "four one three five two four two one three"}]}
+{"id": 511, "text": "I live at 793 michael court.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "793 michael court"}]}
+{"id": 512, "text": "Hi, my name is Travis Robles and my SSN is 767-92-2373.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Travis Robles"}, {"type": "SSN", "start": 43, "end": 54, "value": "767-92-2373"}]}
+{"id": 513, "text": "Applicant: Jack Simpson, DOB: 1961-03-04, phone +1 844-770-8160", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Jack Simpson"}, {"type": "DOB", "start": 30, "end": 40, "value": "1961-03-04"}, {"type": "PHONE", "start": 48, "end": 63, "value": "+1 844-770-8160"}]}
+{"id": 514, "text": "Please charge card 5540-0000-9164-4928 and email the receipt to becky24@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5540-0000-9164-4928"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "becky24@example.org"}]}
+{"id": 515, "text": "Amex 345597722152674 was declined for order #6571601.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "345597722152674"}]}
+{"id": 516, "text": "Ship to 4457 Mays Blvd, South Gabriel, SC 11102 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 47, "value": "4457 Mays Blvd, South Gabriel, SC 11102"}]}
+{"id": 517, "text": "Dear Tracy Ritter, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Tracy Ritter"}]}
+{"id": 518, "text": "Login from 2.107.17.58 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 22, "value": "2.107.17.58"}]}
+{"id": 519, "text": "She was born on 1981-09-01 in Codyfurt.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1981-09-01"}]}
+{"id": 520, "text": "Customer: Patricia Mcgee, contact bbeasley@example.com or 487.262.9828.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Patricia Mcgee"}, {"type": "EMAIL", "start": 34, "end": 54, "value": "bbeasley@example.com"}, {"type": "PHONE", "start": 58, "end": 70, "value": "487.262.9828"}]}
+{"id": 521, "text": "Text me at 821-943-0253 about the $620.39 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "821-943-0253"}]}
+{"id": 522, "text": "The meeting moved to 09/18/1981 in room 698.", "spans": []}
+{"id": 523, "text": "Tracking number 1ZOO468826 ships to ZIP 60913.", "spans": []}
+{"id": 524, "text": "What APR does the Chase card charge after 13 months?", "spans": []}
+{"id": 525, "text": "David Wheeler called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "David Wheeler"}]}
+{"id": 526, "text": "My social is four four four five two four three one three.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "four four four five two four three one three"}]}
+{"id": 527, "text": "I live at 270 michael islands.", "spans": [{"type": "ADDRESS", "start": 10, "end": 29, "value": "270 michael islands"}]}
+{"id": 528, "text": "Hi, my name is Aimee Parrish and my SSN is 275552577.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Aimee Parrish"}, {"type": "SSN", "start": 43, "end": 52, "value": "275552577"}]}
+{"id": 529, "text": "Applicant: Shannon Spencer, DOB: 06/07/1959, phone 496-344-9370", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Shannon Spencer"}, {"type": "DOB", "start": 33, "end": 43, "value": "06/07/1959"}, {"type": "PHONE", "start": 51, "end": 63, "value": "496-344-9370"}]}
+{"id": 530, "text": "Please charge card 5187 5818 8763 3496 and email the receipt to xgonzales@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5187 5818 8763 3496"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "xgonzales@example.com"}]}
+{"id": 531, "text": "Amex 377349067818514 was declined for order #4006850.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "377349067818514"}]}
+{"id": 532, "text": "Ship to 9497 Riley Lane, West Steven, FM 91801 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 46, "value": "9497 Riley Lane, West Steven, FM 91801"}]}
+{"id": 533, "text": "Dear John Lee, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 13, "value": "John Lee"}]}
+{"id": 534, "text": "Login from 41.228.223.161 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "41.228.223.161"}]}
+{"id": 535, "text": "She was born on August 19, 1988 in Lake Mark.", "spans": [{"type": "DOB", "start": 16, "end": 31, "value": "August 19, 1988"}]}
+{"id": 536, "text": "Customer: Alexa Martin, contact stephanie41@example.org or 529-688-8293.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Alexa Martin"}, {"type": "EMAIL", "start": 32, "end": 55, "value": "stephanie41@example.org"}, {"type": "PHONE", "start": 59, "end": 71, "value": "529-688-8293"}]}
+{"id": 537, "text": "Text me at (394) 417-3150 about the $190.89 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(394) 417-3150"}]}
+{"id": 538, "text": "The meeting moved to 09/09/2024 in room 396.", "spans": []}
+{"id": 539, "text": "Tracking number 1ZUT136224 ships to ZIP 57507.", "spans": []}
+{"id": 540, "text": "What APR does the Chase card charge after 17 months?", "spans": []}
+{"id": 541, "text": "Joshua Rodriguez called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 16, "value": "Joshua Rodriguez"}]}
+{"id": 542, "text": "My social is four five two two one four three one three.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "four five two two one four three one three"}]}
+{"id": 543, "text": "I live at 648 juan loaf.", "spans": [{"type": "ADDRESS", "start": 10, "end": 23, "value": "648 juan loaf"}]}
+{"id": 544, "text": "Hi, my name is Steven Smith and my SSN is 475-11-2559.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Steven Smith"}, {"type": "SSN", "start": 42, "end": 53, "value": "475-11-2559"}]}
+{"id": 545, "text": "Applicant: Melissa Kim, DOB: January 25, 1952, phone (232) 553-4596", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Melissa Kim"}, {"type": "DOB", "start": 29, "end": 45, "value": "January 25, 1952"}, {"type": "PHONE", "start": 53, "end": 67, "value": "(232) 553-4596"}]}
+{"id": 546, "text": "Please charge card 4039 7993 4461 7992 and email the receipt to steven24@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4039 7993 4461 7992"}, {"type": "EMAIL", "start": 64, "end": 84, "value": "steven24@example.net"}]}
+{"id": 547, "text": "Amex 370532610008579 was declined for order #8267743.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "370532610008579"}]}
+{"id": 548, "text": "Ship to 9799 Rojas St, Lake Johnchester, UT 75733 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 49, "value": "9799 Rojas St, Lake Johnchester, UT 75733"}]}
+{"id": 549, "text": "Dear Briana Holland, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Briana Holland"}]}
+{"id": 550, "text": "Login from 170.234.23.187 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "170.234.23.187"}]}
+{"id": 551, "text": "She was born on 06/09/1985 in South Ryanview.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "06/09/1985"}]}
+{"id": 552, "text": "Customer: Courtney Garcia, contact zsanchez@example.net or 924.292.4213.", "spans": [{"type": "PERSON", "start": 10, "end": 25, "value": "Courtney Garcia"}, {"type": "EMAIL", "start": 35, "end": 55, "value": "zsanchez@example.net"}, {"type": "PHONE", "start": 59, "end": 71, "value": "924.292.4213"}]}
+{"id": 553, "text": "Text me at +1 779-438-1471 about the $192.57 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 779-438-1471"}]}
+{"id": 554, "text": "The meeting moved to 07/01/2010 in room 970.", "spans": []}
+{"id": 555, "text": "Tracking number 1ZNA246770 ships to ZIP 68429.", "spans": []}
+{"id": 556, "text": "What APR does the Citi card charge after 17 months?", "spans": []}
+{"id": 557, "text": "Emma Conrad called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 11, "value": "Emma Conrad"}]}
+{"id": 558, "text": "My social is two two two one three three one five one.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "two two two one three three one five one"}]}
+{"id": 559, "text": "I live at 858 patricia islands.", "spans": [{"type": "ADDRESS", "start": 10, "end": 30, "value": "858 patricia islands"}]}
+{"id": 560, "text": "Hi, my name is Kimberly Price and my SSN is 049 34 8411.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Kimberly Price"}, {"type": "SSN", "start": 44, "end": 55, "value": "049 34 8411"}]}
+{"id": 561, "text": "Applicant: Tracy Villegas, DOB: 08/12/1938, phone (304) 348-5204", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Tracy Villegas"}, {"type": "DOB", "start": 32, "end": 42, "value": "08/12/1938"}, {"type": "PHONE", "start": 50, "end": 64, "value": "(304) 348-5204"}]}
+{"id": 562, "text": "Please charge card 4499 7175 5461 5764 and email the receipt to eugenecasey@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4499 7175 5461 5764"}, {"type": "EMAIL", "start": 64, "end": 87, "value": "eugenecasey@example.org"}]}
+{"id": 563, "text": "Amex 373207302319520 was declined for order #7603528.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "373207302319520"}]}
+{"id": 564, "text": "Ship to 6310 Stone St before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 21, "value": "6310 Stone St"}]}
+{"id": 565, "text": "Dear Thomas Smith, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Thomas Smith"}]}
+{"id": 566, "text": "Login from 165.235.42.215 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "165.235.42.215"}]}
+{"id": 567, "text": "She was born on November 29, 1973 in Harmonmouth.", "spans": [{"type": "DOB", "start": 16, "end": 33, "value": "November 29, 1973"}]}
+{"id": 568, "text": "Customer: Jason Cohen, contact hpalmer@example.net or 277.663.5566.", "spans": [{"type": "PERSON", "start": 10, "end": 21, "value": "Jason Cohen"}, {"type": "EMAIL", "start": 31, "end": 50, "value": "hpalmer@example.net"}, {"type": "PHONE", "start": 54, "end": 66, "value": "277.663.5566"}]}
+{"id": 569, "text": "Text me at 440.688.1894 about the $151.42 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "440.688.1894"}]}
+{"id": 570, "text": "The meeting moved to 12/11/2025 in room 326.", "spans": []}
+{"id": 571, "text": "Tracking number 1ZDA504466 ships to ZIP 10355.", "spans": []}
+{"id": 572, "text": "What APR does the Discover card charge after 7 months?", "spans": []}
+{"id": 573, "text": "Robert Fisher called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Robert Fisher"}]}
+{"id": 574, "text": "My social is two four five two four two three four four.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "two four five two four two three four four"}]}
+{"id": 575, "text": "I live at 253 carpenter coves.", "spans": [{"type": "ADDRESS", "start": 10, "end": 29, "value": "253 carpenter coves"}]}
+{"id": 576, "text": "Hi, my name is Jeffrey Figueroa and my SSN is 160044442.", "spans": [{"type": "PERSON", "start": 15, "end": 31, "value": "Jeffrey Figueroa"}, {"type": "SSN", "start": 46, "end": 55, "value": "160044442"}]}
+{"id": 577, "text": "Applicant: Shelby Rose, DOB: 1951-10-23, phone +1 543-371-4270", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Shelby Rose"}, {"type": "DOB", "start": 29, "end": 39, "value": "1951-10-23"}, {"type": "PHONE", "start": 47, "end": 62, "value": "+1 543-371-4270"}]}
+{"id": 578, "text": "Please charge card 4577-1280-3874-1439 and email the receipt to kmurray@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4577-1280-3874-1439"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "kmurray@example.org"}]}
+{"id": 579, "text": "Amex 374331646204203 was declined for order #7517367.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "374331646204203"}]}
+{"id": 580, "text": "Ship to 5586 Noble Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 24, "value": "5586 Noble Court"}]}
+{"id": 581, "text": "Dear Anna Perez, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 15, "value": "Anna Perez"}]}
+{"id": 582, "text": "Login from 203.6.211.54 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "203.6.211.54"}]}
+{"id": 583, "text": "She was born on 1984-06-13 in Mcdonaldport.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1984-06-13"}]}
+{"id": 584, "text": "Customer: Kathleen Banks, contact okelly@example.com or 202-739-4692.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Kathleen Banks"}, {"type": "EMAIL", "start": 34, "end": 52, "value": "okelly@example.com"}, {"type": "PHONE", "start": 56, "end": 68, "value": "202-739-4692"}]}
+{"id": 585, "text": "Text me at +1 569-645-0664 about the $228.35 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 569-645-0664"}]}
+{"id": 586, "text": "The meeting moved to 01/07/2010 in room 685.", "spans": []}
+{"id": 587, "text": "Tracking number 1ZWP462704 ships to ZIP 86274.", "spans": []}
+{"id": 588, "text": "What APR does the Citi card charge after 10 months?", "spans": []}
+{"id": 589, "text": "Kevin Mendoza called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Kevin Mendoza"}]}
+{"id": 590, "text": "My social is two five two two two five one one five.", "spans": [{"type": "SSN", "start": 13, "end": 51, "value": "two five two two two five one one five"}]}
+{"id": 591, "text": "I live at 749 hanson corner.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "749 hanson corner"}]}
+{"id": 592, "text": "Hi, my name is Donna Cox and my SSN is 508-98-4488.", "spans": [{"type": "PERSON", "start": 15, "end": 24, "value": "Donna Cox"}, {"type": "SSN", "start": 39, "end": 50, "value": "508-98-4488"}]}
+{"id": 593, "text": "Applicant: Sarah Dickerson, DOB: 12/29/1939, phone 341.827.3148", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Sarah Dickerson"}, {"type": "DOB", "start": 33, "end": 43, "value": "12/29/1939"}, {"type": "PHONE", "start": 51, "end": 63, "value": "341.827.3148"}]}
+{"id": 594, "text": "Please charge card 4018 6085 5471 0675 and email the receipt to kristen28@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4018 6085 5471 0675"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "kristen28@example.com"}]}
+{"id": 595, "text": "Amex 373295025990586 was declined for order #7578735.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "373295025990586"}]}
+{"id": 596, "text": "Ship to 1169 Schultz Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 26, "value": "1169 Schultz Court"}]}
+{"id": 597, "text": "Dear John Garcia, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "John Garcia"}]}
+{"id": 598, "text": "Login from 78.243.251.62 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "78.243.251.62"}]}
+{"id": 599, "text": "She was born on 1949-05-19 in Reedberg.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1949-05-19"}]}
+{"id": 600, "text": "Customer: Jason Powell, contact chelseawatts@example.org or +1 932-450-5258.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Jason Powell"}, {"type": "EMAIL", "start": 32, "end": 56, "value": "chelseawatts@example.org"}, {"type": "PHONE", "start": 60, "end": 75, "value": "+1 932-450-5258"}]}
+{"id": 601, "text": "Text me at 791.969.1002 about the $898.13 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "791.969.1002"}]}
+{"id": 602, "text": "The meeting moved to 12/27/2007 in room 848.", "spans": []}
+{"id": 603, "text": "Tracking number 1ZFV843738 ships to ZIP 57987.", "spans": []}
+{"id": 604, "text": "What APR does the Chase card charge after 20 months?", "spans": []}
+{"id": 605, "text": "Emily Wilson called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Emily Wilson"}]}
+{"id": 606, "text": "My social is five one five five two one two one two.", "spans": [{"type": "SSN", "start": 13, "end": 51, "value": "five one five five two one two one two"}]}
+{"id": 607, "text": "I live at 634 joseph fort.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "634 joseph fort"}]}
+{"id": 608, "text": "Hi, my name is Margaret Kennedy and my SSN is 187-22-1683.", "spans": [{"type": "PERSON", "start": 15, "end": 31, "value": "Margaret Kennedy"}, {"type": "SSN", "start": 46, "end": 57, "value": "187-22-1683"}]}
+{"id": 609, "text": "Applicant: Angela Washington, DOB: 2001-12-05, phone (769) 230-0318", "spans": [{"type": "PERSON", "start": 11, "end": 28, "value": "Angela Washington"}, {"type": "DOB", "start": 35, "end": 45, "value": "2001-12-05"}, {"type": "PHONE", "start": 53, "end": 67, "value": "(769) 230-0318"}]}
+{"id": 610, "text": "Please charge card 5534 0997 8371 5127 and email the receipt to kwright@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5534 0997 8371 5127"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "kwright@example.net"}]}
+{"id": 611, "text": "Amex 371779841116288 was declined for order #3915694.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "371779841116288"}]}
+{"id": 612, "text": "Ship to 2413 Greene Ave, East Marymouth, UT 74238 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 49, "value": "2413 Greene Ave, East Marymouth, UT 74238"}]}
+{"id": 613, "text": "Dear Tyler Phillips, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Tyler Phillips"}]}
+{"id": 614, "text": "Login from 29.160.68.248 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "29.160.68.248"}]}
+{"id": 615, "text": "She was born on May 27, 1966 in East Danatown.", "spans": [{"type": "DOB", "start": 16, "end": 28, "value": "May 27, 1966"}]}
+{"id": 616, "text": "Customer: Andrew Williams, contact lindsey18@example.com or +1 607-368-0303.", "spans": [{"type": "PERSON", "start": 10, "end": 25, "value": "Andrew Williams"}, {"type": "EMAIL", "start": 35, "end": 56, "value": "lindsey18@example.com"}, {"type": "PHONE", "start": 60, "end": 75, "value": "+1 607-368-0303"}]}
+{"id": 617, "text": "Text me at (911) 630-9781 about the $410.06 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(911) 630-9781"}]}
+{"id": 618, "text": "The meeting moved to 07/17/1997 in room 895.", "spans": []}
+{"id": 619, "text": "Tracking number 1ZGQ203625 ships to ZIP 48494.", "spans": []}
+{"id": 620, "text": "What APR does the Chase card charge after 16 months?", "spans": []}
+{"id": 621, "text": "Matthew Osborne called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "Matthew Osborne"}]}
+{"id": 622, "text": "My social is four two three four five three four five one.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "four two three four five three four five one"}]}
+{"id": 623, "text": "I live at 333 justin junctions.", "spans": [{"type": "ADDRESS", "start": 10, "end": 30, "value": "333 justin junctions"}]}
+{"id": 624, "text": "Hi, my name is Robert Spencer and my SSN is 530-19-5791.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Robert Spencer"}, {"type": "SSN", "start": 44, "end": 55, "value": "530-19-5791"}]}
+{"id": 625, "text": "Applicant: Margaret Carter, DOB: 1996-04-02, phone 880.847.0189", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Margaret Carter"}, {"type": "DOB", "start": 33, "end": 43, "value": "1996-04-02"}, {"type": "PHONE", "start": 51, "end": 63, "value": "880.847.0189"}]}
+{"id": 626, "text": "Please charge card 4821 5638 0326 6705 and email the receipt to rcook@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4821 5638 0326 6705"}, {"type": "EMAIL", "start": 64, "end": 81, "value": "rcook@example.net"}]}
+{"id": 627, "text": "Amex 349494809141802 was declined for order #7376132.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "349494809141802"}]}
+{"id": 628, "text": "Ship to 646 Cooper Ave, Lake Travis, DE 43872 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 45, "value": "646 Cooper Ave, Lake Travis, DE 43872"}]}
+{"id": 629, "text": "Dear James Reeves, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "James Reeves"}]}
+{"id": 630, "text": "Login from 69.154.217.73 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "69.154.217.73"}]}
+{"id": 631, "text": "She was born on 01/28/1993 in South Jenniferfurt.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "01/28/1993"}]}
+{"id": 632, "text": "Customer: Amy Williams, contact daniel03@example.com or (513) 555-2735.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Amy Williams"}, {"type": "EMAIL", "start": 32, "end": 52, "value": "daniel03@example.com"}, {"type": "PHONE", "start": 56, "end": 70, "value": "(513) 555-2735"}]}
+{"id": 633, "text": "Text me at 262.808.8417 about the $91.59 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "262.808.8417"}]}
+{"id": 634, "text": "The meeting moved to 08/03/2004 in room 704.", "spans": []}
+{"id": 635, "text": "Tracking number 1ZJO088969 ships to ZIP 88804.", "spans": []}
+{"id": 636, "text": "What APR does the Discover card charge after 10 months?", "spans": []}
+{"id": 637, "text": "Heather Carlson called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "Heather Carlson"}]}
+{"id": 638, "text": "My social is four one five two three four five three three.", "spans": [{"type": "SSN", "start": 13, "end": 58, "value": "four one five two three four five three three"}]}
+{"id": 639, "text": "I live at 250 jason shores.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "250 jason shores"}]}
+{"id": 640, "text": "Hi, my name is Cynthia Garrett and my SSN is 755-12-8951.", "spans": [{"type": "PERSON", "start": 15, "end": 30, "value": "Cynthia Garrett"}, {"type": "SSN", "start": 45, "end": 56, "value": "755-12-8951"}]}
+{"id": 641, "text": "Applicant: Gordon Alvarado, DOB: 1999-04-13, phone 825-911-9341", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Gordon Alvarado"}, {"type": "DOB", "start": 33, "end": 43, "value": "1999-04-13"}, {"type": "PHONE", "start": 51, "end": 63, "value": "825-911-9341"}]}
+{"id": 642, "text": "Please charge card 5563-8578-4977-4030 and email the receipt to phampton@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5563-8578-4977-4030"}, {"type": "EMAIL", "start": 64, "end": 84, "value": "phampton@example.org"}]}
+{"id": 643, "text": "Amex 343886960523585 was declined for order #5560610.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "343886960523585"}]}
+{"id": 644, "text": "Ship to 4423 Wood Blvd, Port Kyle, VT 34317 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 43, "value": "4423 Wood Blvd, Port Kyle, VT 34317"}]}
+{"id": 645, "text": "Dear Michelle Lopez, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Michelle Lopez"}]}
+{"id": 646, "text": "Login from 65.78.26.122 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "65.78.26.122"}]}
+{"id": 647, "text": "She was born on 04/08/1967 in South Ashleyton.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "04/08/1967"}]}
+{"id": 648, "text": "Customer: Mallory Ayala, contact zjohnston@example.com or 503-258-0356.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Mallory Ayala"}, {"type": "EMAIL", "start": 33, "end": 54, "value": "zjohnston@example.com"}, {"type": "PHONE", "start": 58, "end": 70, "value": "503-258-0356"}]}
+{"id": 649, "text": "Text me at 765.268.9927 about the $455.84 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "765.268.9927"}]}
+{"id": 650, "text": "The meeting moved to 10/27/1973 in room 163.", "spans": []}
+{"id": 651, "text": "Tracking number 1ZJG699276 ships to ZIP 11370.", "spans": []}
+{"id": 652, "text": "What APR does the Discover card charge after 18 months?", "spans": []}
+{"id": 653, "text": "Deanna Lewis called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Deanna Lewis"}]}
+{"id": 654, "text": "My social is four three one five two two four three three.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "four three one five two two four three three"}]}
+{"id": 655, "text": "I live at 144 courtney meadow.", "spans": [{"type": "ADDRESS", "start": 10, "end": 29, "value": "144 courtney meadow"}]}
+{"id": 656, "text": "Hi, my name is Adam Sutton and my SSN is 693264535.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Adam Sutton"}, {"type": "SSN", "start": 41, "end": 50, "value": "693264535"}]}
+{"id": 657, "text": "Applicant: David Burch, DOB: 04/06/1942, phone 957.961.7786", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "David Burch"}, {"type": "DOB", "start": 29, "end": 39, "value": "04/06/1942"}, {"type": "PHONE", "start": 47, "end": 59, "value": "957.961.7786"}]}
+{"id": 658, "text": "Please charge card 5526-1068-9176-9266 and email the receipt to andersonandrew@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5526-1068-9176-9266"}, {"type": "EMAIL", "start": 64, "end": 90, "value": "andersonandrew@example.net"}]}
+{"id": 659, "text": "Amex 346774545688965 was declined for order #5502159.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "346774545688965"}]}
+{"id": 660, "text": "Ship to 8185 Carroll Street, Grossburgh, AR 48456 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 49, "value": "8185 Carroll Street, Grossburgh, AR 48456"}]}
+{"id": 661, "text": "Dear Kim Reeves, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 15, "value": "Kim Reeves"}]}
+{"id": 662, "text": "Login from 169.241.89.64 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "169.241.89.64"}]}
+{"id": 663, "text": "She was born on 1957-03-24 in Murrayview.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1957-03-24"}]}
+{"id": 664, "text": "Customer: Robin Williams, contact smithalexis@example.net or 508.388.8796.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Robin Williams"}, {"type": "EMAIL", "start": 34, "end": 57, "value": "smithalexis@example.net"}, {"type": "PHONE", "start": 61, "end": 73, "value": "508.388.8796"}]}
+{"id": 665, "text": "Text me at +1 349-646-9427 about the $600.29 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 349-646-9427"}]}
+{"id": 666, "text": "The meeting moved to 01/07/2009 in room 190.", "spans": []}
+{"id": 667, "text": "Tracking number 1ZKF916449 ships to ZIP 80317.", "spans": []}
+{"id": 668, "text": "What APR does the Chase card charge after 16 months?", "spans": []}
+{"id": 669, "text": "Brian Richardson called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 16, "value": "Brian Richardson"}]}
+{"id": 670, "text": "My social is five two three two four one one one three.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "five two three two four one one one three"}]}
+{"id": 671, "text": "I live at 579 harrison expressway.", "spans": [{"type": "ADDRESS", "start": 10, "end": 33, "value": "579 harrison expressway"}]}
+{"id": 672, "text": "Hi, my name is Dustin Salinas and my SSN is 510-39-8790.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Dustin Salinas"}, {"type": "SSN", "start": 44, "end": 55, "value": "510-39-8790"}]}
+{"id": 673, "text": "Applicant: Michael Newman, DOB: October 18, 1981, phone +1 835-647-8477", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Michael Newman"}, {"type": "DOB", "start": 32, "end": 48, "value": "October 18, 1981"}, {"type": "PHONE", "start": 56, "end": 71, "value": "+1 835-647-8477"}]}
+{"id": 674, "text": "Please charge card 5175095701831651 and email the receipt to xwoods@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5175095701831651"}, {"type": "EMAIL", "start": 61, "end": 79, "value": "xwoods@example.com"}]}
+{"id": 675, "text": "Amex 378923676799585 was declined for order #1647577.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "378923676799585"}]}
+{"id": 676, "text": "Ship to 5943 Duffy Avenue, Kellyton, RI 85821 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 45, "value": "5943 Duffy Avenue, Kellyton, RI 85821"}]}
+{"id": 677, "text": "Dear Jacqueline Wilcox, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 22, "value": "Jacqueline Wilcox"}]}
+{"id": 678, "text": "Login from 32.253.246.36 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "32.253.246.36"}]}
+{"id": 679, "text": "She was born on 1996-07-06 in Brendabury.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1996-07-06"}]}
+{"id": 680, "text": "Customer: Nicholas Cohen, contact lindseycampbell@example.org or 277-518-8398.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Nicholas Cohen"}, {"type": "EMAIL", "start": 34, "end": 61, "value": "lindseycampbell@example.org"}, {"type": "PHONE", "start": 65, "end": 77, "value": "277-518-8398"}]}
+{"id": 681, "text": "Text me at 314.871.4831 about the $845.65 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "314.871.4831"}]}
+{"id": 682, "text": "The meeting moved to 04/09/1988 in room 530.", "spans": []}
+{"id": 683, "text": "Tracking number 1ZJZ462904 ships to ZIP 75462.", "spans": []}
+{"id": 684, "text": "What APR does the Discover card charge after 11 months?", "spans": []}
+{"id": 685, "text": "Dylan Hester called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Dylan Hester"}]}
+{"id": 686, "text": "My social is five three five two five two four two one.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "five three five two five two four two one"}]}
+{"id": 687, "text": "I live at 646 reed corner.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "646 reed corner"}]}
+{"id": 688, "text": "Hi, my name is Amber Washington and my SSN is 579-78-1747.", "spans": [{"type": "PERSON", "start": 15, "end": 31, "value": "Amber Washington"}, {"type": "SSN", "start": 46, "end": 57, "value": "579-78-1747"}]}
+{"id": 689, "text": "Applicant: Patrick French, DOB: July 19, 1988, phone +1 847-851-0693", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Patrick French"}, {"type": "DOB", "start": 32, "end": 45, "value": "July 19, 1988"}, {"type": "PHONE", "start": 53, "end": 68, "value": "+1 847-851-0693"}]}
+{"id": 690, "text": "Please charge card 4048046190032788 and email the receipt to kylebrown@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4048046190032788"}, {"type": "EMAIL", "start": 61, "end": 82, "value": "kylebrown@example.com"}]}
+{"id": 691, "text": "Amex 378829369122888 was declined for order #1889225.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "378829369122888"}]}
+{"id": 692, "text": "Ship to 1641 Marshall Street before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 28, "value": "1641 Marshall Street"}]}
+{"id": 693, "text": "Dear Steve Miller, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Steve Miller"}]}
+{"id": 694, "text": "Login from 161.0.137.157 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "161.0.137.157"}]}
+{"id": 695, "text": "She was born on 10/29/1952 in Nicolehaven.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "10/29/1952"}]}
+{"id": 696, "text": "Customer: Manuel Hunter, contact jaimelee@example.org or +1 736-702-7659.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Manuel Hunter"}, {"type": "EMAIL", "start": 33, "end": 53, "value": "jaimelee@example.org"}, {"type": "PHONE", "start": 57, "end": 72, "value": "+1 736-702-7659"}]}
+{"id": 697, "text": "Text me at 264.865.0204 about the $152.91 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "264.865.0204"}]}
+{"id": 698, "text": "The meeting moved to 10/18/2015 in room 343.", "spans": []}
+{"id": 699, "text": "Tracking number 1ZXH459956 ships to ZIP 20031.", "spans": []}
+{"id": 700, "text": "What APR does the Chase card charge after 14 months?", "spans": []}
+{"id": 701, "text": "John Livingston called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "John Livingston"}]}
+{"id": 702, "text": "My social is two one three one five one three two four.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "two one three one five one three two four"}]}
+{"id": 703, "text": "I live at 639 brooks coves.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "639 brooks coves"}]}
+{"id": 704, "text": "Hi, my name is Nathan Ford and my SSN is 395-03-0896.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Nathan Ford"}, {"type": "SSN", "start": 41, "end": 52, "value": "395-03-0896"}]}
+{"id": 705, "text": "Applicant: Christopher Stewart, DOB: 1938-01-16, phone +1 797-982-0719", "spans": [{"type": "PERSON", "start": 11, "end": 30, "value": "Christopher Stewart"}, {"type": "DOB", "start": 37, "end": 47, "value": "1938-01-16"}, {"type": "PHONE", "start": 55, "end": 70, "value": "+1 797-982-0719"}]}
+{"id": 706, "text": "Please charge card 4933-3029-2507-4696 and email the receipt to april01@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4933-3029-2507-4696"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "april01@example.org"}]}
+{"id": 707, "text": "Amex 371369364670315 was declined for order #3010303.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "371369364670315"}]}
+{"id": 708, "text": "Ship to 5872 Harris Avenue, Willisborough, KS 37178 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 51, "value": "5872 Harris Avenue, Willisborough, KS 37178"}]}
+{"id": 709, "text": "Dear Ronald Potts, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Ronald Potts"}]}
+{"id": 710, "text": "Login from 180.48.93.48 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "180.48.93.48"}]}
+{"id": 711, "text": "She was born on 05/15/1954 in West Jamesburgh.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "05/15/1954"}]}
+{"id": 712, "text": "Customer: Nicholas Johnson, contact grantmonica@example.com or 208.497.6488.", "spans": [{"type": "PERSON", "start": 10, "end": 26, "value": "Nicholas Johnson"}, {"type": "EMAIL", "start": 36, "end": 59, "value": "grantmonica@example.com"}, {"type": "PHONE", "start": 63, "end": 75, "value": "208.497.6488"}]}
+{"id": 713, "text": "Text me at +1 318-543-8744 about the $348.51 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 318-543-8744"}]}
+{"id": 714, "text": "The meeting moved to 08/31/1997 in room 766.", "spans": []}
+{"id": 715, "text": "Tracking number 1ZUK196114 ships to ZIP 31068.", "spans": []}
+{"id": 716, "text": "What APR does the Citi card charge after 9 months?", "spans": []}
+{"id": 717, "text": "Danielle Huber called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Danielle Huber"}]}
+{"id": 718, "text": "My social is four three five two four two four three three.", "spans": [{"type": "SSN", "start": 13, "end": 58, "value": "four three five two four two four three three"}]}
+{"id": 719, "text": "I live at 243 white vista.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "243 white vista"}]}
+{"id": 720, "text": "Hi, my name is Erik Sheppard and my SSN is 447-05-4574.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Erik Sheppard"}, {"type": "SSN", "start": 43, "end": 54, "value": "447-05-4574"}]}
+{"id": 721, "text": "Applicant: Victoria Walker, DOB: 1938-08-25, phone (360) 447-2127", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Victoria Walker"}, {"type": "DOB", "start": 33, "end": 43, "value": "1938-08-25"}, {"type": "PHONE", "start": 51, "end": 65, "value": "(360) 447-2127"}]}
+{"id": 722, "text": "Please charge card 4482 8773 2553 6696 and email the receipt to shelley08@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4482 8773 2553 6696"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "shelley08@example.org"}]}
+{"id": 723, "text": "Amex 377833724979587 was declined for order #4231400.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "377833724979587"}]}
+{"id": 724, "text": "Ship to 9965 Hood Lane before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 22, "value": "9965 Hood Lane"}]}
+{"id": 725, "text": "Dear Duane Fischer, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "Duane Fischer"}]}
+{"id": 726, "text": "Login from 206.99.237.114 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "206.99.237.114"}]}
+{"id": 727, "text": "She was born on 11/19/1978 in Changville.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "11/19/1978"}]}
+{"id": 728, "text": "Customer: Thomas Watson, contact emartinez@example.com or (969) 325-8405.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Thomas Watson"}, {"type": "EMAIL", "start": 33, "end": 54, "value": "emartinez@example.com"}, {"type": "PHONE", "start": 58, "end": 72, "value": "(969) 325-8405"}]}
+{"id": 729, "text": "Text me at (756) 476-6304 about the $678.91 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(756) 476-6304"}]}
+{"id": 730, "text": "The meeting moved to 07/31/1979 in room 681.", "spans": []}
+{"id": 731, "text": "Tracking number 1ZKO320730 ships to ZIP 10696.", "spans": []}
+{"id": 732, "text": "What APR does the Citi card charge after 15 months?", "spans": []}
+{"id": 733, "text": "Sarah Delacruz called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Sarah Delacruz"}]}
+{"id": 734, "text": "My social is one four one two two three two one one.", "spans": [{"type": "SSN", "start": 13, "end": 51, "value": "one four one two two three two one one"}]}
+{"id": 735, "text": "I live at 576 kimberly court.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "576 kimberly court"}]}
+{"id": 736, "text": "Hi, my name is Sara Cruz and my SSN is 371-65-4866.", "spans": [{"type": "PERSON", "start": 15, "end": 24, "value": "Sara Cruz"}, {"type": "SSN", "start": 39, "end": 50, "value": "371-65-4866"}]}
+{"id": 737, "text": "Applicant: Andrew Jones, DOB: 10/22/2006, phone 936-518-1440", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Andrew Jones"}, {"type": "DOB", "start": 30, "end": 40, "value": "10/22/2006"}, {"type": "PHONE", "start": 48, "end": 60, "value": "936-518-1440"}]}
+{"id": 738, "text": "Please charge card 5126 4567 2420 5564 and email the receipt to madeline71@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5126 4567 2420 5564"}, {"type": "EMAIL", "start": 64, "end": 86, "value": "madeline71@example.net"}]}
+{"id": 739, "text": "Amex 373651241493062 was declined for order #771064.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "373651241493062"}]}
+{"id": 740, "text": "Ship to 2655 Diaz Way, Jeffreyton, HI 94050 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 43, "value": "2655 Diaz Way, Jeffreyton, HI 94050"}]}
+{"id": 741, "text": "Dear Shannon Small, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "Shannon Small"}]}
+{"id": 742, "text": "Login from 20.199.209.182 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "20.199.209.182"}]}
+{"id": 743, "text": "She was born on 04/11/1955 in Wrighttown.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "04/11/1955"}]}
+{"id": 744, "text": "Customer: Joseph Franco, contact linda47@example.org or +1 976-510-2559.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Joseph Franco"}, {"type": "EMAIL", "start": 33, "end": 52, "value": "linda47@example.org"}, {"type": "PHONE", "start": 56, "end": 71, "value": "+1 976-510-2559"}]}
+{"id": 745, "text": "Text me at 957.240.9049 about the $649.81 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "957.240.9049"}]}
+{"id": 746, "text": "The meeting moved to 01/28/1988 in room 283.", "spans": []}
+{"id": 747, "text": "Tracking number 1ZJE712803 ships to ZIP 38018.", "spans": []}
+{"id": 748, "text": "What APR does the Discover card charge after 13 months?", "spans": []}
+{"id": 749, "text": "David Fischer called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "David Fischer"}]}
+{"id": 750, "text": "My social is five four five three four five three one one.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "five four five three four five three one one"}]}
+{"id": 751, "text": "I live at 855 reynolds green.", "spans": [{"type": "ADDRESS", "start": 10, "end": 28, "value": "855 reynolds green"}]}
+{"id": 752, "text": "Hi, my name is Whitney Buckley and my SSN is 784-84-4692.", "spans": [{"type": "PERSON", "start": 15, "end": 30, "value": "Whitney Buckley"}, {"type": "SSN", "start": 45, "end": 56, "value": "784-84-4692"}]}
+{"id": 753, "text": "Applicant: Connor Roberts, DOB: April 2, 2001, phone 822-912-0775", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Connor Roberts"}, {"type": "DOB", "start": 32, "end": 45, "value": "April 2, 2001"}, {"type": "PHONE", "start": 53, "end": 65, "value": "822-912-0775"}]}
+{"id": 754, "text": "Please charge card 5510-5351-6693-4817 and email the receipt to colliertiffany@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5510-5351-6693-4817"}, {"type": "EMAIL", "start": 64, "end": 90, "value": "colliertiffany@example.org"}]}
+{"id": 755, "text": "Amex 377587803682732 was declined for order #833017.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "377587803682732"}]}
+{"id": 756, "text": "Ship to 4280 Irwin Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 24, "value": "4280 Irwin Court"}]}
+{"id": 757, "text": "Dear Scott Clarke, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Scott Clarke"}]}
+{"id": 758, "text": "Login from 206.74.137.46 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "206.74.137.46"}]}
+{"id": 759, "text": "She was born on May 23, 1949 in Williamschester.", "spans": [{"type": "DOB", "start": 16, "end": 28, "value": "May 23, 1949"}]}
+{"id": 760, "text": "Customer: Jeffery Duncan, contact meganboyd@example.org or 368.999.3866.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Jeffery Duncan"}, {"type": "EMAIL", "start": 34, "end": 55, "value": "meganboyd@example.org"}, {"type": "PHONE", "start": 59, "end": 71, "value": "368.999.3866"}]}
+{"id": 761, "text": "Text me at 456.260.2753 about the $360.52 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "456.260.2753"}]}
+{"id": 762, "text": "The meeting moved to 06/10/2010 in room 194.", "spans": []}
+{"id": 763, "text": "Tracking number 1ZWR391197 ships to ZIP 23480.", "spans": []}
+{"id": 764, "text": "What APR does the Citi card charge after 15 months?", "spans": []}
+{"id": 765, "text": "Jamie Salazar called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Jamie Salazar"}]}
+{"id": 766, "text": "My social is two two four four two two one five four.", "spans": [{"type": "SSN", "start": 13, "end": 52, "value": "two two four four two two one five four"}]}
+{"id": 767, "text": "I live at 137 brandi flats.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "137 brandi flats"}]}
+{"id": 768, "text": "Hi, my name is Alejandro Schwartz and my SSN is 657-45-4905.", "spans": [{"type": "PERSON", "start": 15, "end": 33, "value": "Alejandro Schwartz"}, {"type": "SSN", "start": 48, "end": 59, "value": "657-45-4905"}]}
+{"id": 769, "text": "Applicant: April Randall, DOB: September 18, 2002, phone 346-801-9228", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "April Randall"}, {"type": "DOB", "start": 31, "end": 49, "value": "September 18, 2002"}, {"type": "PHONE", "start": 57, "end": 69, "value": "346-801-9228"}]}
+{"id": 770, "text": "Please charge card 5118-6229-7631-4053 and email the receipt to matthew71@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5118-6229-7631-4053"}, {"type": "EMAIL", "start": 64, "end": 85, "value": "matthew71@example.org"}]}
+{"id": 771, "text": "Amex 340044314712578 was declined for order #7962800.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "340044314712578"}]}
+{"id": 772, "text": "Ship to 5947 Ortiz Way, Andersonview, IA 24887 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 46, "value": "5947 Ortiz Way, Andersonview, IA 24887"}]}
+{"id": 773, "text": "Dear Anna Odom, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 14, "value": "Anna Odom"}]}
+{"id": 774, "text": "Login from 87.193.44.48 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "87.193.44.48"}]}
+{"id": 775, "text": "She was born on 10/18/1977 in West Aprilmouth.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "10/18/1977"}]}
+{"id": 776, "text": "Customer: Tanya Jones, contact jennifer56@example.net or (771) 273-0746.", "spans": [{"type": "PERSON", "start": 10, "end": 21, "value": "Tanya Jones"}, {"type": "EMAIL", "start": 31, "end": 53, "value": "jennifer56@example.net"}, {"type": "PHONE", "start": 57, "end": 71, "value": "(771) 273-0746"}]}
+{"id": 777, "text": "Text me at (680) 968-7954 about the $770.91 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(680) 968-7954"}]}
+{"id": 778, "text": "The meeting moved to 09/11/2012 in room 439.", "spans": []}
+{"id": 779, "text": "Tracking number 1ZBH041778 ships to ZIP 70930.", "spans": []}
+{"id": 780, "text": "What APR does the Discover card charge after 14 months?", "spans": []}
+{"id": 781, "text": "Dennis Sanchez called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Dennis Sanchez"}]}
+{"id": 782, "text": "My social is one four four four two five three one three.", "spans": [{"type": "SSN", "start": 13, "end": 56, "value": "one four four four two five three one three"}]}
+{"id": 783, "text": "I live at 942 jeffrey falls.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "942 jeffrey falls"}]}
+{"id": 784, "text": "Hi, my name is Gary Collins and my SSN is 094834686.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Gary Collins"}, {"type": "SSN", "start": 42, "end": 51, "value": "094834686"}]}
+{"id": 785, "text": "Applicant: Angela Moses, DOB: March 31, 1937, phone 869-916-4119", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Angela Moses"}, {"type": "DOB", "start": 30, "end": 44, "value": "March 31, 1937"}, {"type": "PHONE", "start": 52, "end": 64, "value": "869-916-4119"}]}
+{"id": 786, "text": "Please charge card 4200-6245-2821-4957 and email the receipt to josehood@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4200-6245-2821-4957"}, {"type": "EMAIL", "start": 64, "end": 84, "value": "josehood@example.net"}]}
+{"id": 787, "text": "Amex 345535285430012 was declined for order #9610491.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "345535285430012"}]}
+{"id": 788, "text": "Ship to 829 Ray Lane before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 20, "value": "829 Ray Lane"}]}
+{"id": 789, "text": "Dear Jennifer Williams, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 22, "value": "Jennifer Williams"}]}
+{"id": 790, "text": "Login from 95.151.2.135 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "95.151.2.135"}]}
+{"id": 791, "text": "She was born on 1978-08-07 in Danielville.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1978-08-07"}]}
+{"id": 792, "text": "Customer: Richard Taylor, contact michellethomas@example.net or 634.711.2580.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Richard Taylor"}, {"type": "EMAIL", "start": 34, "end": 60, "value": "michellethomas@example.net"}, {"type": "PHONE", "start": 64, "end": 76, "value": "634.711.2580"}]}
+{"id": 793, "text": "Text me at 818-795-1314 about the $709.29 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "818-795-1314"}]}
+{"id": 794, "text": "The meeting moved to 04/04/1996 in room 267.", "spans": []}
+{"id": 795, "text": "Tracking number 1ZMH620669 ships to ZIP 05246.", "spans": []}
+{"id": 796, "text": "What APR does the Citi card charge after 20 months?", "spans": []}
+{"id": 797, "text": "Randall Pugh called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 12, "value": "Randall Pugh"}]}
+{"id": 798, "text": "My social is four one one four four two two three one.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "four one one four four two two three one"}]}
+{"id": 799, "text": "I live at 33 morgan garden.", "spans": [{"type": "ADDRESS", "start": 10, "end": 26, "value": "33 morgan garden"}]}
+{"id": 800, "text": "Hi, my name is Mary Baldwin and my SSN is 863 79 8377.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Mary Baldwin"}, {"type": "SSN", "start": 42, "end": 53, "value": "863 79 8377"}]}
+{"id": 801, "text": "Applicant: Megan Elliott, DOB: 10/18/2007, phone +1 491-273-0906", "spans": [{"type": "PERSON", "start": 11, "end": 24, "value": "Megan Elliott"}, {"type": "DOB", "start": 31, "end": 41, "value": "10/18/2007"}, {"type": "PHONE", "start": 49, "end": 64, "value": "+1 491-273-0906"}]}
+{"id": 802, "text": "Please charge card 5117-0226-4079-5939 and email the receipt to lisa80@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5117-0226-4079-5939"}, {"type": "EMAIL", "start": 64, "end": 82, "value": "lisa80@example.com"}]}
+{"id": 803, "text": "Amex 348587682699100 was declined for order #5662348.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "348587682699100"}]}
+{"id": 804, "text": "Ship to 4867 Holmes Way, Johnchester, TN 83428 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 46, "value": "4867 Holmes Way, Johnchester, TN 83428"}]}
+{"id": 805, "text": "Dear Alexander Rodriguez, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 24, "value": "Alexander Rodriguez"}]}
+{"id": 806, "text": "Login from 98.152.68.241 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "98.152.68.241"}]}
+{"id": 807, "text": "She was born on 1967-06-10 in East Donaldfurt.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1967-06-10"}]}
+{"id": 808, "text": "Customer: Kimberly Giles, contact lambnicole@example.org or 693.872.2242.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Kimberly Giles"}, {"type": "EMAIL", "start": 34, "end": 56, "value": "lambnicole@example.org"}, {"type": "PHONE", "start": 60, "end": 72, "value": "693.872.2242"}]}
+{"id": 809, "text": "Text me at 552-743-0456 about the $232.86 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "552-743-0456"}]}
+{"id": 810, "text": "The meeting moved to 12/15/1971 in room 857.", "spans": []}
+{"id": 811, "text": "Tracking number 1ZNG949480 ships to ZIP 33345.", "spans": []}
+{"id": 812, "text": "What APR does the Chase card charge after 8 months?", "spans": []}
+{"id": 813, "text": "David Smith called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 11, "value": "David Smith"}]}
+{"id": 814, "text": "My social is two five three five five four three five two.", "spans": [{"type": "SSN", "start": 13, "end": 57, "value": "two five three five five four three five two"}]}
+{"id": 815, "text": "I live at 579 stephanie heights.", "spans": [{"type": "ADDRESS", "start": 10, "end": 31, "value": "579 stephanie heights"}]}
+{"id": 816, "text": "Hi, my name is Daniel Bailey and my SSN is 452-51-4278.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Daniel Bailey"}, {"type": "SSN", "start": 43, "end": 54, "value": "452-51-4278"}]}
+{"id": 817, "text": "Applicant: Gary Brown, DOB: 11/03/2005, phone (385) 407-8980", "spans": [{"type": "PERSON", "start": 11, "end": 21, "value": "Gary Brown"}, {"type": "DOB", "start": 28, "end": 38, "value": "11/03/2005"}, {"type": "PHONE", "start": 46, "end": 60, "value": "(385) 407-8980"}]}
+{"id": 818, "text": "Please charge card 4413847387389189 and email the receipt to christopher98@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4413847387389189"}, {"type": "EMAIL", "start": 61, "end": 86, "value": "christopher98@example.org"}]}
+{"id": 819, "text": "Amex 346172888181765 was declined for order #9231834.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "346172888181765"}]}
+{"id": 820, "text": "Ship to 3140 Gonzales Avenue, West Ruth, OK 38289 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 49, "value": "3140 Gonzales Avenue, West Ruth, OK 38289"}]}
+{"id": 821, "text": "Dear Joshua Fitzgerald, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 22, "value": "Joshua Fitzgerald"}]}
+{"id": 822, "text": "Login from 185.48.121.187 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "185.48.121.187"}]}
+{"id": 823, "text": "She was born on 02/17/1997 in Lake Paul.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "02/17/1997"}]}
+{"id": 824, "text": "Customer: Amy Richardson, contact chloe74@example.org or +1 341-582-0942.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Amy Richardson"}, {"type": "EMAIL", "start": 34, "end": 53, "value": "chloe74@example.org"}, {"type": "PHONE", "start": 57, "end": 72, "value": "+1 341-582-0942"}]}
+{"id": 825, "text": "Text me at (443) 248-6100 about the $20.89 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(443) 248-6100"}]}
+{"id": 826, "text": "The meeting moved to 10/08/1983 in room 708.", "spans": []}
+{"id": 827, "text": "Tracking number 1ZZA338869 ships to ZIP 46723.", "spans": []}
+{"id": 828, "text": "What APR does the Citi card charge after 20 months?", "spans": []}
+{"id": 829, "text": "Francis Crane called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Francis Crane"}]}
+{"id": 830, "text": "My social is three one two four one five two five one.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "three one two four one five two five one"}]}
+{"id": 831, "text": "I live at 940 hawkins overpass.", "spans": [{"type": "ADDRESS", "start": 10, "end": 30, "value": "940 hawkins overpass"}]}
+{"id": 832, "text": "Hi, my name is Joseph Johns and my SSN is 747-46-2753.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Joseph Johns"}, {"type": "SSN", "start": 42, "end": 53, "value": "747-46-2753"}]}
+{"id": 833, "text": "Applicant: Javier Brown, DOB: June 1, 1937, phone 550.981.0190", "spans": [{"type": "PERSON", "start": 11, "end": 23, "value": "Javier Brown"}, {"type": "DOB", "start": 30, "end": 42, "value": "June 1, 1937"}, {"type": "PHONE", "start": 50, "end": 62, "value": "550.981.0190"}]}
+{"id": 834, "text": "Please charge card 4358 8570 9515 8591 and email the receipt to obrienmichael@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4358 8570 9515 8591"}, {"type": "EMAIL", "start": 64, "end": 89, "value": "obrienmichael@example.net"}]}
+{"id": 835, "text": "Amex 343453709710716 was declined for order #1337400.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "343453709710716"}]}
+{"id": 836, "text": "Ship to 3036 Brown Road before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "3036 Brown Road"}]}
+{"id": 837, "text": "Dear Abigail Hays, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 17, "value": "Abigail Hays"}]}
+{"id": 838, "text": "Login from 137.227.174.155 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 26, "value": "137.227.174.155"}]}
+{"id": 839, "text": "She was born on April 2, 1966 in Donaldborough.", "spans": [{"type": "DOB", "start": 16, "end": 29, "value": "April 2, 1966"}]}
+{"id": 840, "text": "Customer: Christina Horn, contact rodgersjulia@example.com or 497-903-6239.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Christina Horn"}, {"type": "EMAIL", "start": 34, "end": 58, "value": "rodgersjulia@example.com"}, {"type": "PHONE", "start": 62, "end": 74, "value": "497-903-6239"}]}
+{"id": 841, "text": "Text me at 803.456.8821 about the $459.01 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "803.456.8821"}]}
+{"id": 842, "text": "The meeting moved to 04/08/1985 in room 125.", "spans": []}
+{"id": 843, "text": "Tracking number 1ZLH261068 ships to ZIP 65759.", "spans": []}
+{"id": 844, "text": "What APR does the Chase card charge after 10 months?", "spans": []}
+{"id": 845, "text": "Raymond Haney called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Raymond Haney"}]}
+{"id": 846, "text": "My social is four five four one one one two five five.", "spans": [{"type": "SSN", "start": 13, "end": 53, "value": "four five four one one one two five five"}]}
+{"id": 847, "text": "I live at 402 robert tunnel.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "402 robert tunnel"}]}
+{"id": 848, "text": "Hi, my name is Joshua Howell and my SSN is 865 61 2594.", "spans": [{"type": "PERSON", "start": 15, "end": 28, "value": "Joshua Howell"}, {"type": "SSN", "start": 43, "end": 54, "value": "865 61 2594"}]}
+{"id": 849, "text": "Applicant: Daniel Christian, DOB: 1986-05-23, phone (435) 825-8470", "spans": [{"type": "PERSON", "start": 11, "end": 27, "value": "Daniel Christian"}, {"type": "DOB", "start": 34, "end": 44, "value": "1986-05-23"}, {"type": "PHONE", "start": 52, "end": 66, "value": "(435) 825-8470"}]}
+{"id": 850, "text": "Please charge card 5158342990325750 and email the receipt to jennifer45@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5158342990325750"}, {"type": "EMAIL", "start": 61, "end": 83, "value": "jennifer45@example.com"}]}
+{"id": 851, "text": "Amex 376550597530377 was declined for order #861375.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "376550597530377"}]}
+{"id": 852, "text": "Ship to 2354 Fox Avenue, Wongtown, WY 98251 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 43, "value": "2354 Fox Avenue, Wongtown, WY 98251"}]}
+{"id": 853, "text": "Dear Melissa Porter, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Melissa Porter"}]}
+{"id": 854, "text": "Login from 21.229.15.179 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "21.229.15.179"}]}
+{"id": 855, "text": "She was born on 1975-01-08 in South Barbara.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1975-01-08"}]}
+{"id": 856, "text": "Customer: Bonnie Miller, contact mario93@example.com or 480.265.8192.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Bonnie Miller"}, {"type": "EMAIL", "start": 33, "end": 52, "value": "mario93@example.com"}, {"type": "PHONE", "start": 56, "end": 68, "value": "480.265.8192"}]}
+{"id": 857, "text": "Text me at 566-782-9396 about the $720.04 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "566-782-9396"}]}
+{"id": 858, "text": "The meeting moved to 08/11/1981 in room 674.", "spans": []}
+{"id": 859, "text": "Tracking number 1ZFT600049 ships to ZIP 70813.", "spans": []}
+{"id": 860, "text": "What APR does the Citi card charge after 12 months?", "spans": []}
+{"id": 861, "text": "Kiara Ryan called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 10, "value": "Kiara Ryan"}]}
+{"id": 862, "text": "My social is four five one three three two two one three.", "spans": [{"type": "SSN", "start": 13, "end": 56, "value": "four five one three three two two one three"}]}
+{"id": 863, "text": "I live at 987 holmes path.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "987 holmes path"}]}
+{"id": 864, "text": "Hi, my name is Jessica Jordan and my SSN is 783445942.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Jessica Jordan"}, {"type": "SSN", "start": 44, "end": 53, "value": "783445942"}]}
+{"id": 865, "text": "Applicant: Steven Williams, DOB: March 11, 1985, phone +1 452-558-9023", "spans": [{"type": "PERSON", "start": 11, "end": 26, "value": "Steven Williams"}, {"type": "DOB", "start": 33, "end": 47, "value": "March 11, 1985"}, {"type": "PHONE", "start": 55, "end": 70, "value": "+1 452-558-9023"}]}
+{"id": 866, "text": "Please charge card 5105578533522304 and email the receipt to rgould@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5105578533522304"}, {"type": "EMAIL", "start": 61, "end": 79, "value": "rgould@example.org"}]}
+{"id": 867, "text": "Amex 376769429124445 was declined for order #9694865.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "376769429124445"}]}
+{"id": 868, "text": "Ship to 5579 Fox Court before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 22, "value": "5579 Fox Court"}]}
+{"id": 869, "text": "Dear Sarah Moore, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "Sarah Moore"}]}
+{"id": 870, "text": "Login from 99.94.171.96 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "99.94.171.96"}]}
+{"id": 871, "text": "She was born on 05/11/1971 in Saundersshire.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "05/11/1971"}]}
+{"id": 872, "text": "Customer: Matthew Moreno, contact jacksonlouis@example.org or 798-281-9583.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Matthew Moreno"}, {"type": "EMAIL", "start": 34, "end": 58, "value": "jacksonlouis@example.org"}, {"type": "PHONE", "start": 62, "end": 74, "value": "798-281-9583"}]}
+{"id": 873, "text": "Text me at +1 512-794-5791 about the $370.99 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 512-794-5791"}]}
+{"id": 874, "text": "The meeting moved to 12/10/2016 in room 806.", "spans": []}
+{"id": 875, "text": "Tracking number 1ZAO821458 ships to ZIP 21000.", "spans": []}
+{"id": 876, "text": "What APR does the Chase card charge after 8 months?", "spans": []}
+{"id": 877, "text": "Alexandria Cabrera called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 18, "value": "Alexandria Cabrera"}]}
+{"id": 878, "text": "My social is four three two three three five one two three.", "spans": [{"type": "SSN", "start": 13, "end": 58, "value": "four three two three three five one two three"}]}
+{"id": 879, "text": "I live at 243 william field.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "243 william field"}]}
+{"id": 880, "text": "Hi, my name is Robert Brown and my SSN is 723-03-3577.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Robert Brown"}, {"type": "SSN", "start": 42, "end": 53, "value": "723-03-3577"}]}
+{"id": 881, "text": "Applicant: Annette Rodriguez, DOB: 1977-06-05, phone 659.405.9877", "spans": [{"type": "PERSON", "start": 11, "end": 28, "value": "Annette Rodriguez"}, {"type": "DOB", "start": 35, "end": 45, "value": "1977-06-05"}, {"type": "PHONE", "start": 53, "end": 65, "value": "659.405.9877"}]}
+{"id": 882, "text": "Please charge card 5513 3029 0119 5205 and email the receipt to holtalex@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5513 3029 0119 5205"}, {"type": "EMAIL", "start": 64, "end": 84, "value": "holtalex@example.org"}]}
+{"id": 883, "text": "Amex 378050355076950 was declined for order #3027705.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "378050355076950"}]}
+{"id": 884, "text": "Ship to 6788 Parker Street before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 26, "value": "6788 Parker Street"}]}
+{"id": 885, "text": "Dear Elizabeth Gonzalez, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 23, "value": "Elizabeth Gonzalez"}]}
+{"id": 886, "text": "Login from 24.131.57.81 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "24.131.57.81"}]}
+{"id": 887, "text": "She was born on 06/04/1999 in New James.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "06/04/1999"}]}
+{"id": 888, "text": "Customer: Carolyn Thomas, contact johnsoncharles@example.net or +1 842-827-5480.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Carolyn Thomas"}, {"type": "EMAIL", "start": 34, "end": 60, "value": "johnsoncharles@example.net"}, {"type": "PHONE", "start": 64, "end": 79, "value": "+1 842-827-5480"}]}
+{"id": 889, "text": "Text me at +1 813-609-4210 about the $899.01 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 813-609-4210"}]}
+{"id": 890, "text": "The meeting moved to 11/14/1997 in room 126.", "spans": []}
+{"id": 891, "text": "Tracking number 1ZUJ796009 ships to ZIP 94277.", "spans": []}
+{"id": 892, "text": "What APR does the Chase card charge after 16 months?", "spans": []}
+{"id": 893, "text": "John Hill called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 9, "value": "John Hill"}]}
+{"id": 894, "text": "My social is one four five three two one one two two.", "spans": [{"type": "SSN", "start": 13, "end": 52, "value": "one four five three two one one two two"}]}
+{"id": 895, "text": "I live at 147 joseph courts.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "147 joseph courts"}]}
+{"id": 896, "text": "Hi, my name is Michele Meza and my SSN is 543-99-1473.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Michele Meza"}, {"type": "SSN", "start": 42, "end": 53, "value": "543-99-1473"}]}
+{"id": 897, "text": "Applicant: Bryan Lee, DOB: 1981-05-19, phone 634-552-8825", "spans": [{"type": "PERSON", "start": 11, "end": 20, "value": "Bryan Lee"}, {"type": "DOB", "start": 27, "end": 37, "value": "1981-05-19"}, {"type": "PHONE", "start": 45, "end": 57, "value": "634-552-8825"}]}
+{"id": 898, "text": "Please charge card 5599-5394-7048-7847 and email the receipt to brownpamela@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5599-5394-7048-7847"}, {"type": "EMAIL", "start": 64, "end": 87, "value": "brownpamela@example.net"}]}
+{"id": 899, "text": "Amex 372408715236100 was declined for order #2350547.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "372408715236100"}]}
+{"id": 900, "text": "Ship to 986 Gallagher St before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 24, "value": "986 Gallagher St"}]}
+{"id": 901, "text": "Dear Bradley Galvan, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Bradley Galvan"}]}
+{"id": 902, "text": "Login from 169.212.37.147 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 25, "value": "169.212.37.147"}]}
+{"id": 903, "text": "She was born on April 11, 1936 in Torresview.", "spans": [{"type": "DOB", "start": 16, "end": 30, "value": "April 11, 1936"}]}
+{"id": 904, "text": "Customer: Susan Simpson, contact sanchezpeter@example.net or 387.465.9929.", "spans": [{"type": "PERSON", "start": 10, "end": 23, "value": "Susan Simpson"}, {"type": "EMAIL", "start": 33, "end": 57, "value": "sanchezpeter@example.net"}, {"type": "PHONE", "start": 61, "end": 73, "value": "387.465.9929"}]}
+{"id": 905, "text": "Text me at 956-352-2907 about the $546.03 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "956-352-2907"}]}
+{"id": 906, "text": "The meeting moved to 03/27/2003 in room 459.", "spans": []}
+{"id": 907, "text": "Tracking number 1ZFL646703 ships to ZIP 22773.", "spans": []}
+{"id": 908, "text": "What APR does the Discover card charge after 13 months?", "spans": []}
+{"id": 909, "text": "Michael Lopez called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 13, "value": "Michael Lopez"}]}
+{"id": 910, "text": "My social is four four two three four four two three one.", "spans": [{"type": "SSN", "start": 13, "end": 56, "value": "four four two three four four two three one"}]}
+{"id": 911, "text": "I live at 111 foster lake.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "111 foster lake"}]}
+{"id": 912, "text": "Hi, my name is Danny Ferguson and my SSN is 677-94-0253.", "spans": [{"type": "PERSON", "start": 15, "end": 29, "value": "Danny Ferguson"}, {"type": "SSN", "start": 44, "end": 55, "value": "677-94-0253"}]}
+{"id": 913, "text": "Applicant: Paul Powell, DOB: August 9, 1940, phone (612) 890-5745", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Paul Powell"}, {"type": "DOB", "start": 29, "end": 43, "value": "August 9, 1940"}, {"type": "PHONE", "start": 51, "end": 65, "value": "(612) 890-5745"}]}
+{"id": 914, "text": "Please charge card 4966-6304-0463-3537 and email the receipt to hendersonrobin@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "4966-6304-0463-3537"}, {"type": "EMAIL", "start": 64, "end": 90, "value": "hendersonrobin@example.net"}]}
+{"id": 915, "text": "Amex 374473927424413 was declined for order #5662120.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "374473927424413"}]}
+{"id": 916, "text": "Ship to 7956 Sanchez Street before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 27, "value": "7956 Sanchez Street"}]}
+{"id": 917, "text": "Dear Austin Beck, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 16, "value": "Austin Beck"}]}
+{"id": 918, "text": "Login from 41.250.40.64 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 23, "value": "41.250.40.64"}]}
+{"id": 919, "text": "She was born on 06/24/1953 in North James.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "06/24/1953"}]}
+{"id": 920, "text": "Customer: Amy Cobb, contact ymcdonald@example.org or +1 528-899-9998.", "spans": [{"type": "PERSON", "start": 10, "end": 18, "value": "Amy Cobb"}, {"type": "EMAIL", "start": 28, "end": 49, "value": "ymcdonald@example.org"}, {"type": "PHONE", "start": 53, "end": 68, "value": "+1 528-899-9998"}]}
+{"id": 921, "text": "Text me at 418-793-0854 about the $876.94 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "418-793-0854"}]}
+{"id": 922, "text": "The meeting moved to 01/18/1979 in room 469.", "spans": []}
+{"id": 923, "text": "Tracking number 1ZTE536693 ships to ZIP 66670.", "spans": []}
+{"id": 924, "text": "What APR does the Citi card charge after 20 months?", "spans": []}
+{"id": 925, "text": "James Garrison called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "James Garrison"}]}
+{"id": 926, "text": "My social is two four two three one one two one two.", "spans": [{"type": "SSN", "start": 13, "end": 51, "value": "two four two three one one two one two"}]}
+{"id": 927, "text": "I live at 934 sheri green.", "spans": [{"type": "ADDRESS", "start": 10, "end": 25, "value": "934 sheri green"}]}
+{"id": 928, "text": "Hi, my name is Caitlin Alexander and my SSN is 310-20-8236.", "spans": [{"type": "PERSON", "start": 15, "end": 32, "value": "Caitlin Alexander"}, {"type": "SSN", "start": 47, "end": 58, "value": "310-20-8236"}]}
+{"id": 929, "text": "Applicant: Veronica Nichols, DOB: 05/01/1965, phone +1 970-372-7610", "spans": [{"type": "PERSON", "start": 11, "end": 27, "value": "Veronica Nichols"}, {"type": "DOB", "start": 34, "end": 44, "value": "05/01/1965"}, {"type": "PHONE", "start": 52, "end": 67, "value": "+1 970-372-7610"}]}
+{"id": 930, "text": "Please charge card 4656509330028936 and email the receipt to davidchristensen@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4656509330028936"}, {"type": "EMAIL", "start": 61, "end": 89, "value": "davidchristensen@example.net"}]}
+{"id": 931, "text": "Amex 371005111728606 was declined for order #3102806.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "371005111728606"}]}
+{"id": 932, "text": "Ship to 8855 Palmer Ave before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 23, "value": "8855 Palmer Ave"}]}
+{"id": 933, "text": "Dear Jennifer Thomas, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 20, "value": "Jennifer Thomas"}]}
+{"id": 934, "text": "Login from 69.129.161.45 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "69.129.161.45"}]}
+{"id": 935, "text": "She was born on July 16, 1986 in West Jacob.", "spans": [{"type": "DOB", "start": 16, "end": 29, "value": "July 16, 1986"}]}
+{"id": 936, "text": "Customer: Patricia Jones, contact linda43@example.org or (956) 758-8203.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Patricia Jones"}, {"type": "EMAIL", "start": 34, "end": 53, "value": "linda43@example.org"}, {"type": "PHONE", "start": 57, "end": 71, "value": "(956) 758-8203"}]}
+{"id": 937, "text": "Text me at (743) 562-8130 about the $362.27 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 25, "value": "(743) 562-8130"}]}
+{"id": 938, "text": "The meeting moved to 11/04/2010 in room 973.", "spans": []}
+{"id": 939, "text": "Tracking number 1ZWZ134264 ships to ZIP 61379.", "spans": []}
+{"id": 940, "text": "What APR does the Citi card charge after 8 months?", "spans": []}
+{"id": 941, "text": "Kimberly Andrade called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 16, "value": "Kimberly Andrade"}]}
+{"id": 942, "text": "My social is three two one three three one one two five.", "spans": [{"type": "SSN", "start": 13, "end": 55, "value": "three two one three three one one two five"}]}
+{"id": 943, "text": "I live at 50 sharon fall.", "spans": [{"type": "ADDRESS", "start": 10, "end": 24, "value": "50 sharon fall"}]}
+{"id": 944, "text": "Hi, my name is Anthony Frazier and my SSN is 418-72-5942.", "spans": [{"type": "PERSON", "start": 15, "end": 30, "value": "Anthony Frazier"}, {"type": "SSN", "start": 45, "end": 56, "value": "418-72-5942"}]}
+{"id": 945, "text": "Applicant: Elizabeth Bell, DOB: 12/11/1965, phone +1 534-904-0678", "spans": [{"type": "PERSON", "start": 11, "end": 25, "value": "Elizabeth Bell"}, {"type": "DOB", "start": 32, "end": 42, "value": "12/11/1965"}, {"type": "PHONE", "start": 50, "end": 65, "value": "+1 534-904-0678"}]}
+{"id": 946, "text": "Please charge card 5548-5646-6586-6268 and email the receipt to zwright@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5548-5646-6586-6268"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "zwright@example.com"}]}
+{"id": 947, "text": "Amex 372039849633118 was declined for order #664599.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "372039849633118"}]}
+{"id": 948, "text": "Ship to 6649 Escobar Street, East Kellyview, PW 80312 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 53, "value": "6649 Escobar Street, East Kellyview, PW 80312"}]}
+{"id": 949, "text": "Dear Jessica Marquez, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 20, "value": "Jessica Marquez"}]}
+{"id": 950, "text": "Login from 66.143.86.1 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 22, "value": "66.143.86.1"}]}
+{"id": 951, "text": "She was born on April 1, 1980 in Gonzalezport.", "spans": [{"type": "DOB", "start": 16, "end": 29, "value": "April 1, 1980"}]}
+{"id": 952, "text": "Customer: Eric Rodgers, contact crystal29@example.org or 862.653.8993.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Eric Rodgers"}, {"type": "EMAIL", "start": 32, "end": 53, "value": "crystal29@example.org"}, {"type": "PHONE", "start": 57, "end": 69, "value": "862.653.8993"}]}
+{"id": 953, "text": "Text me at +1 667-791-0015 about the $769.82 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 26, "value": "+1 667-791-0015"}]}
+{"id": 954, "text": "The meeting moved to 05/27/2002 in room 973.", "spans": []}
+{"id": 955, "text": "Tracking number 1ZHW846950 ships to ZIP 86408.", "spans": []}
+{"id": 956, "text": "What APR does the Chase card charge after 16 months?", "spans": []}
+{"id": 957, "text": "Justin Williams called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "Justin Williams"}]}
+{"id": 958, "text": "My social is five five four two four three one four five.", "spans": [{"type": "SSN", "start": 13, "end": 56, "value": "five five four two four three one four five"}]}
+{"id": 959, "text": "I live at 273 terri springs.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "273 terri springs"}]}
+{"id": 960, "text": "Hi, my name is Daniel Moody and my SSN is 628-85-5278.", "spans": [{"type": "PERSON", "start": 15, "end": 27, "value": "Daniel Moody"}, {"type": "SSN", "start": 42, "end": 53, "value": "628-85-5278"}]}
+{"id": 961, "text": "Applicant: Jason Rocha, DOB: July 18, 1990, phone 757.880.3657", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Jason Rocha"}, {"type": "DOB", "start": 29, "end": 42, "value": "July 18, 1990"}, {"type": "PHONE", "start": 50, "end": 62, "value": "757.880.3657"}]}
+{"id": 962, "text": "Please charge card 5175897932185835 and email the receipt to butlerjulie@example.net.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "5175897932185835"}, {"type": "EMAIL", "start": 61, "end": 84, "value": "butlerjulie@example.net"}]}
+{"id": 963, "text": "Amex 345322720565615 was declined for order #6979096.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "345322720565615"}]}
+{"id": 964, "text": "Ship to 4121 Gilbert Avenue, West Alison, MI 56072 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 50, "value": "4121 Gilbert Avenue, West Alison, MI 56072"}]}
+{"id": 965, "text": "Dear Scott Peterson, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Scott Peterson"}]}
+{"id": 966, "text": "Login from 15.62.150.176 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "15.62.150.176"}]}
+{"id": 967, "text": "She was born on 12/16/1972 in South Emily.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "12/16/1972"}]}
+{"id": 968, "text": "Customer: Meghan Osborne, contact cgill@example.net or 574.565.8562.", "spans": [{"type": "PERSON", "start": 10, "end": 24, "value": "Meghan Osborne"}, {"type": "EMAIL", "start": 34, "end": 51, "value": "cgill@example.net"}, {"type": "PHONE", "start": 55, "end": 67, "value": "574.565.8562"}]}
+{"id": 969, "text": "Text me at 664.878.1441 about the $410.37 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "664.878.1441"}]}
+{"id": 970, "text": "The meeting moved to 11/22/2016 in room 556.", "spans": []}
+{"id": 971, "text": "Tracking number 1ZIQ842823 ships to ZIP 33228.", "spans": []}
+{"id": 972, "text": "What APR does the Discover card charge after 9 months?", "spans": []}
+{"id": 973, "text": "Tamara Jackson called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 14, "value": "Tamara Jackson"}]}
+{"id": 974, "text": "My social is four four two five two one two three four.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "four four two five two one two three four"}]}
+{"id": 975, "text": "I live at 534 jenkins flats.", "spans": [{"type": "ADDRESS", "start": 10, "end": 27, "value": "534 jenkins flats"}]}
+{"id": 976, "text": "Hi, my name is Dana Taylor and my SSN is 678316075.", "spans": [{"type": "PERSON", "start": 15, "end": 26, "value": "Dana Taylor"}, {"type": "SSN", "start": 41, "end": 50, "value": "678316075"}]}
+{"id": 977, "text": "Applicant: Gina Tucker, DOB: 1971-01-26, phone 591-458-0291", "spans": [{"type": "PERSON", "start": 11, "end": 22, "value": "Gina Tucker"}, {"type": "DOB", "start": 29, "end": 39, "value": "1971-01-26"}, {"type": "PHONE", "start": 47, "end": 59, "value": "591-458-0291"}]}
+{"id": 978, "text": "Please charge card 4940924845434717 and email the receipt to adamholt@example.org.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 35, "value": "4940924845434717"}, {"type": "EMAIL", "start": 61, "end": 81, "value": "adamholt@example.org"}]}
+{"id": 979, "text": "Amex 371326495076507 was declined for order #5053416.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "371326495076507"}]}
+{"id": 980, "text": "Ship to 7061 Boyle Lane, Helenberg, FM 93262 before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 44, "value": "7061 Boyle Lane, Helenberg, FM 93262"}]}
+{"id": 981, "text": "Dear Donald Elliott, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 19, "value": "Donald Elliott"}]}
+{"id": 982, "text": "Login from 39.140.215.64 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "39.140.215.64"}]}
+{"id": 983, "text": "She was born on 1975-11-07 in Lake Elizabeth.", "spans": [{"type": "DOB", "start": 16, "end": 26, "value": "1975-11-07"}]}
+{"id": 984, "text": "Customer: Carol Murray, contact hguerra@example.net or 445-594-9481.", "spans": [{"type": "PERSON", "start": 10, "end": 22, "value": "Carol Murray"}, {"type": "EMAIL", "start": 32, "end": 51, "value": "hguerra@example.net"}, {"type": "PHONE", "start": 55, "end": 67, "value": "445-594-9481"}]}
+{"id": 985, "text": "Text me at 834.396.9506 about the $69.85 refund.", "spans": [{"type": "PHONE", "start": 11, "end": 23, "value": "834.396.9506"}]}
+{"id": 986, "text": "The meeting moved to 06/11/1986 in room 308.", "spans": []}
+{"id": 987, "text": "Tracking number 1ZTM573004 ships to ZIP 14996.", "spans": []}
+{"id": 988, "text": "What APR does the Chase card charge after 8 months?", "spans": []}
+{"id": 989, "text": "Jacqueline West called yesterday about the account.", "spans": [{"type": "PERSON", "start": 0, "end": 15, "value": "Jacqueline West"}]}
+{"id": 990, "text": "My social is one four four four five four four one one.", "spans": [{"type": "SSN", "start": 13, "end": 54, "value": "one four four four five four four one one"}]}
+{"id": 991, "text": "I live at 608 evan mills.", "spans": [{"type": "ADDRESS", "start": 10, "end": 24, "value": "608 evan mills"}]}
+{"id": 992, "text": "Hi, my name is Taylor Cox and my SSN is 578 60 7573.", "spans": [{"type": "PERSON", "start": 15, "end": 25, "value": "Taylor Cox"}, {"type": "SSN", "start": 40, "end": 51, "value": "578 60 7573"}]}
+{"id": 993, "text": "Applicant: Gary Jones, DOB: 1936-08-13, phone +1 685-380-1066", "spans": [{"type": "PERSON", "start": 11, "end": 21, "value": "Gary Jones"}, {"type": "DOB", "start": 28, "end": 38, "value": "1936-08-13"}, {"type": "PHONE", "start": 46, "end": 61, "value": "+1 685-380-1066"}]}
+{"id": 994, "text": "Please charge card 5172-8033-6804-8565 and email the receipt to tmiller@example.com.", "spans": [{"type": "CREDIT_CARD", "start": 19, "end": 38, "value": "5172-8033-6804-8565"}, {"type": "EMAIL", "start": 64, "end": 83, "value": "tmiller@example.com"}]}
+{"id": 995, "text": "Amex 341319017139702 was declined for order #3452694.", "spans": [{"type": "CREDIT_CARD", "start": 5, "end": 20, "value": "341319017139702"}]}
+{"id": 996, "text": "Ship to 7911 Baird Drive before Friday.", "spans": [{"type": "ADDRESS", "start": 8, "end": 24, "value": "7911 Baird Drive"}]}
+{"id": 997, "text": "Dear James Daniels, your claim was approved.", "spans": [{"type": "PERSON", "start": 5, "end": 18, "value": "James Daniels"}]}
+{"id": 998, "text": "Login from 69.210.106.32 at 3am looks suspicious.", "spans": [{"type": "IP_ADDRESS", "start": 11, "end": 24, "value": "69.210.106.32"}]}
+{"id": 999, "text": "She was born on November 17, 1982 in Deniseland.", "spans": [{"type": "DOB", "start": 16, "end": 33, "value": "November 17, 1982"}]}

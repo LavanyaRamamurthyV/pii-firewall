@@ -1,0 +1,6 @@
+line-length = 120
+target-version = "py310"
+
+[lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]  # regexes and test data read better unwrapped

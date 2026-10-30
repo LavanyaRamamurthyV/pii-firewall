@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install
+        run: |
+          pip install -e core/python -e mcp-server pytest faker ruff playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Lint
+        run: ruff check .
+
+      - name: Extension uses the latest JS core
+        run: diff core/js/pii-core.js extension/lib/pii-core.js
+
+      - name: Python tests
+        run: pytest core/python mcp-server -q
+
+      - name: JavaScript tests
+        run: node --test core/js/test/core.test.js
+
+      - name: Accuracy floors and Python/JS parity
+        run: python evals/run.py
+
+      - name: Browser tests (real extension in Chromium)
+        run: |
+          export CHROME_PATH=$(python -c "from playwright.sync_api import sync_playwright as s; p=s().start(); print(p.chromium.executable_path); p.stop()")
+          pytest extension/test -q

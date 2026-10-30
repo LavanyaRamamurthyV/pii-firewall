@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>PII Firewall</title>
+  <style>
+    :root { color-scheme: light dark; --bg:#ffffff; --fg:#111827; --muted:#6b7280; --line:#e5e7eb; --accent:#059669; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#111827; --fg:#f9fafb; --muted:#9ca3af; --line:#374151; --accent:#34d399; } }
+    body { margin:0; width:320px; font:13px/1.45 system-ui, sans-serif; background:var(--bg); color:var(--fg); }
+    header { display:flex; align-items:center; justify-content:space-between; padding:12px 14px; border-bottom:1px solid var(--line); }
+    h1 { font-size:15px; margin:0; }
+    section { padding:10px 14px; border-bottom:1px solid var(--line); }
+    h2 { font-size:11px; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin:0 0 8px; }
+    label.opt { display:flex; gap:8px; align-items:flex-start; margin:6px 0; cursor:pointer; }
+    .row { display:flex; justify-content:space-between; align-items:center; margin:5px 0; }
+    select { font:inherit; padding:2px 4px; border-radius:6px; border:1px solid var(--line); background:var(--bg); color:var(--fg); }
+    .stat { font-size:22px; font-weight:700; color:var(--accent); }
+    .muted { color:var(--muted); font-size:12px; }
+    button { font:inherit; padding:6px 10px; border-radius:8px; border:1px solid var(--line); background:transparent; color:var(--fg); cursor:pointer; }
+    footer { padding:10px 14px; font-size:11px; color:var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🛡️ PII Firewall</h1>
+    <label><input type="checkbox" id="enabled" /> On</label>
+  </header>
+
+  <section>
+    <h2>When personal data is found</h2>
+    <label class="opt"><input type="radio" name="mode" value="warn" /> <span><b>Warn before sending</b><br><span class="muted">Holds Enter/Send until you redact or override</span></span></label>
+    <label class="opt"><input type="radio" name="mode" value="auto" /> <span><b>Warn + auto-redact pastes</b><br><span class="muted">Pasted text is cleaned before it hits the page</span></span></label>
+    <label class="opt"><input type="radio" name="mode" value="off" /> <span><b>Off</b></span></label>
+  </section>
+
+  <section>
+    <h2>What to catch</h2>
+    <div id="types"></div>
+  </section>
+
+  <section>
+    <label class="opt"><input type="checkbox" id="restore" /> <span><b>Show real values in AI replies</b><br><span class="muted">Swaps tokens like [SSN_1] back on your screen. Off by default: restored values are visible to the page.</span></span></label>
+  </section>
+
+  <section>
+    <h2>This browser session</h2>
+    <div class="row"><span>Items protected</span><span class="stat" id="total">0</span></div>
+    <div class="row"><span class="muted" id="tokens">0 tokens in vault</span><button id="clear">Forget tokens</button></div>
+  </section>
+
+  <footer>All checks run on your computer. Nothing is sent anywhere.</footer>
+  <script src="../lib/pii-core.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
