@@ -1,0 +1,6 @@
+Ticket #48213 (all details are fake test data)
+
+Hi, my name is Priya Sharma. I was charged twice on card 5500-0000-0000-0004
+on Oct 12. You can reach me at priya.s@example.org or 469.555.0110.
+My SSN is 321-54-9876 if you need it to verify. DOB: 04/12/1985.
+Please refund the duplicate charge to 1600 Pennsylvania Ave, Apt 4B.
