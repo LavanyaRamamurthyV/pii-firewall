@@ -27,8 +27,10 @@ jobs:
       - name: Lint
         run: ruff check .
 
-      - name: Extension uses the latest JS core
-        run: diff core/js/pii-core.js extension/lib/pii-core.js
+      - name: Extension uses the latest JS core and names
+        run: |
+          diff core/js/pii-core.js extension/lib/pii-core.js
+          diff core/js/pii-names.js extension/lib/pii-names.js
 
       - name: Python tests
         run: pytest core/python mcp-server -q

@@ -37,3 +37,8 @@ test("state survives export/import", () => {
   assert.equal(b.redact("again a@b.com").text, "again [EMAIL_1]");
   assert.equal(b.rehydrate("[EMAIL_1]"), "a@b.com");
 });
+
+test("name dictionary matches the Python copy", () => {
+  const py = JSON.parse(fs.readFileSync(path.join(__dirname, "../../python/pii_firewall/data/names.json"), "utf8"));
+  assert.deepEqual(require("../pii-names.js"), py);
+});

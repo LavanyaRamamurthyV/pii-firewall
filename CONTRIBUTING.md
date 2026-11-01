@@ -7,7 +7,8 @@ Thanks for helping keep personal data out of AI tools.
 - **Never commit real personal data.** Use fake values: test card numbers like `4111 1111 1111 1111`, SSNs from `evals/generate.py`, `example.com` emails, `555-01xx` phone numbers.
 - Detection changes go in **both** engines: `core/python/pii_firewall/detectors.py` and `core/js/pii-core.js`.
 - Every detection change needs a case in `core/fixtures/cases.json` (both engines are tested against it).
-- Run `./scripts/sync-core.sh` so the extension gets the updated JS core.
+- Run `./scripts/sync-core.sh` so the extension gets the updated JS core and name dictionary.
+- To change the name dictionary, edit the lists in `scripts/build_names.py` and run it (needs `pip install faker wordfreq`).
 
 ## Before opening a pull request
 

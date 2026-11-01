@@ -4,21 +4,21 @@
 
 | Type | Precision | Recall | F1 | Labeled | False positives |
 |---|---|---|---|---|---|
-| CREDIT_CARD | 100.0% | 100.0% | 100.0% | 126 | 0 |
-| SSN | 100.0% | 100.0% | 100.0% | 125 | 0 |
-| EMAIL | 100.0% | 100.0% | 100.0% | 125 | 0 |
-| IP_ADDRESS | 100.0% | 100.0% | 100.0% | 63 | 0 |
-| PHONE | 100.0% | 100.0% | 100.0% | 187 | 0 |
-| DOB | 100.0% | 100.0% | 100.0% | 126 | 0 |
-| ADDRESS | 100.0% | 50.4% | 67.0% | 125 | 0 |
-| PERSON | 100.0% | 80.2% | 89.0% | 313 | 0 |
+| CREDIT_CARD | 100.0% | 100.0% | 100.0% | 62 | 0 |
+| SSN | 100.0% | 100.0% | 100.0% | 31 | 0 |
+| EMAIL | 100.0% | 100.0% | 100.0% | 62 | 0 |
+| IP_ADDRESS | 100.0% | 100.0% | 100.0% | 31 | 0 |
+| PHONE | 100.0% | 100.0% | 100.0% | 93 | 0 |
+| DOB | 100.0% | 100.0% | 100.0% | 62 | 0 |
+| ADDRESS | 100.0% | 88.9% | 94.1% | 271 | 0 |
+| PERSON | 100.0% | 91.6% | 95.6% | 394 | 0 |
 
 **Python and JavaScript engines agree on 100.0% of examples.**
 
 ## Known gaps (by design of the hard cases)
 
-- Names with no context cue ("Maria called yesterday") are missed: capitalised words alone are too noisy to flag.
-- Lowercase street addresses with no suffix ("12 main") are missed.
-- These examples come from templates written alongside the detectors, so expect lower accuracy on real, messy text. Contributions of new hard cases are welcome.
+- Lowercase names the dictionary doesn't know, with no cue around them ("sibonelo guliwe agreed to the terms"), are missed.
+- Addresses without a house number and street suffix (common in India: "Flat 302, Sai Residency, Madhapur") are missed unless a cue like "ship to" comes first.
+- Names in this set come from 14 languages **not** used to build the name dictionary. Addresses and other types come from templates written alongside the detectors, so expect lower accuracy on real, messy text. Contributions of new hard cases are welcome.
 
 Regenerate with `python evals/generate.py && python evals/run.py`.

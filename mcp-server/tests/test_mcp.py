@@ -26,7 +26,8 @@ def test_read_text_file_tokenizes(share):
     t = Tools(roots=[str(share)])
     out = t.safe_read_file("notes.txt")
     assert "234-56-7890" not in out["text"] and "maria.g@example.com" not in out["text"]
-    assert out["counts"] == {"SSN": 1, "EMAIL": 1}
+    assert out["counts"] == {"PERSON": 1, "SSN": 1, "EMAIL": 1}
+    assert "Maria" not in out["text"]
 
 
 def test_csv_column_hints_and_consistent_tokens(share):

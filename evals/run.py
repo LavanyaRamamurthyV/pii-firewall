@@ -16,7 +16,8 @@ sys.path.insert(0, str(HERE.parent / "core" / "python"))
 from pii_firewall import ENTITY_TYPES, detect  # noqa: E402
 
 # CI fails if precision or recall for a type falls below these.
-FLOORS = {"SSN": (0.95, 0.85), "CREDIT_CARD": (0.98, 0.98), "EMAIL": (0.98, 0.98), "PHONE": (0.95, 0.95)}
+FLOORS = {"SSN": (0.95, 0.85), "CREDIT_CARD": (0.98, 0.98), "EMAIL": (0.98, 0.98), "PHONE": (0.95, 0.95),
+          "PERSON": (0.95, 0.80), "ADDRESS": (0.95, 0.80)}
 
 
 def load():
@@ -82,11 +83,15 @@ def main():
         "",
         "## Known gaps (by design of the hard cases)",
         "",
-        "- Names with no context cue (\"Maria called yesterday\") are missed: capitalised words alone are too noisy to flag.",
-        "- Lowercase street addresses with no suffix (\"12 main\") are missed.",
         (
-            "- These examples come from templates written alongside the detectors, so expect lower "
-            "accuracy on real, messy text. Contributions of new hard cases are welcome."
+            "- Lowercase names the dictionary doesn't know, with no cue around them "
+            "(\"sibonelo guliwe agreed to the terms\"), are missed."
+        ),
+        "- Addresses without a house number and street suffix (common in India: \"Flat 302, Sai Residency, Madhapur\") are missed unless a cue like \"ship to\" comes first.",
+        (
+            "- Names in this set come from 14 languages **not** used to build the name dictionary. "
+            "Addresses and other types come from templates written alongside the detectors, so expect "
+            "lower accuracy on real, messy text. Contributions of new hard cases are welcome."
         ),
         "",
         "Regenerate with `python evals/generate.py && python evals/run.py`.",

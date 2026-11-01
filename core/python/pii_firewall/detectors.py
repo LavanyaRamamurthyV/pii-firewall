@@ -10,6 +10,8 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass
 
+from . import addresses, names
+
 # Lower number = higher priority when spans overlap.
 PRIORITY = {
     "CREDIT_CARD": 1,
@@ -59,27 +61,6 @@ DOB_RE = re.compile(
     r"(?i)\b(?:dob|d\.o\.b\.?|date of birth|birth ?date|born(?: on)?)\b\s*[:\-]?\s*(" + DATE + r")"
 )
 
-STREET_SUFFIX = (
-    r"(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Lane|Ln|Court|Ct|Way|"
-    r"Place|Pl|Terrace|Ter|Circle|Cir|Parkway|Pkwy|Highway|Hwy|Trail|Trl)"
-)
-ADDRESS_RE = re.compile(
-    r"\b\d{1,6}\s+(?:[NSEW]\.?\s+)?(?:[A-Z][a-zA-Z]+\s+){1,3}" + STREET_SUFFIX + r"\b\.?"
-    r"(?:,?\s+(?:Apt|Apartment|Unit|Suite|Ste|#)\.?\s*[\w-]+)?"
-    r"(?:,\s*[A-Z][a-zA-Z]+(?:\s[A-Z][a-zA-Z]+)*)?"
-    r"(?:,\s*[A-Z]{2})?(?:\s+\d{5}(?:-\d{4})?)?"
-)
-
-NAME = r"[A-Z][a-z]+(?:[-'][A-Z][a-z]+)?"
-FULL_NAME = NAME + r"(?:\s+[A-Z]\.)?(?:\s+" + NAME + r"){0,2}"
-# Names are only flagged with a context cue; capitalised words alone are too noisy.
-PERSON_RES = [
-    re.compile(r"(?i:\b(?:my name is|name is|i am|i'm|this is)\s+)(" + FULL_NAME + r"\s+" + NAME + r")"),
-    re.compile(r"(?i:\b(?:full name|name|applicant|cardholder|customer|patient|employee)\s*:\s*)(" + FULL_NAME + r")"),
-    re.compile(r"\b(?:Mr|Mrs|Ms|Miss|Dr|Prof)\.?\s+(" + FULL_NAME + r")"),
-    re.compile(r"(?i:\b(?:dear|hi|hello|sincerely|regards|thanks),?\s+)(" + NAME + r"\s+" + NAME + r")"),
-]
-PERSON_STOPWORDS = {"Street", "Avenue", "Road", "Drive", "Lane", "Bank", "Card", "The", "Team", "Customer", "Support"}
 
 
 # --- validators --------------------------------------------------------------
@@ -148,17 +129,13 @@ def _dob(text):
 
 
 def _address(text):
-    for m in ADDRESS_RE.finditer(text):
-        yield Entity("ADDRESS", m.start(), m.end(), m.group().rstrip(".,"))
+    for start, end in addresses.find(text):
+        yield Entity("ADDRESS", start, end, text[start:end])
 
 
 def _person(text):
-    for rx in PERSON_RES:
-        for m in rx.finditer(text):
-            words = m.group(1).split()
-            if any(w.strip(".") in PERSON_STOPWORDS for w in words):
-                continue
-            yield Entity("PERSON", m.start(1), m.end(1), m.group(1))
+    for start, end in names.find(text):
+        yield Entity("PERSON", start, end, text[start:end])
 
 
 DETECTORS = {

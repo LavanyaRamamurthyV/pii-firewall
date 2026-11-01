@@ -148,3 +148,22 @@ def test_restore_shows_real_value_in_reply(ctx):
     assert page.evaluate("document.getElementById('replies').querySelectorAll('[data-pii-fw]').length") == 1
     assert "[EMAIL_1]" not in page.inner_text("#replies")
     set_settings(ctx, restore=False)
+
+
+def test_names_and_addresses_in_real_extension(ctx):
+    set_settings(ctx, enabled=True, mode="auto", restore=False, policy={})
+    page = open_chat(ctx)
+    page.click("#ta")
+    text = ("please email priya sharma. Hi Rahul, ship to 9 oak hollow by friday. "
+            "Office: 456 W 34th Street, New York, NY 10001. Meet at Grant Park.")
+    page.evaluate("""(t) => {
+      const dt = new DataTransfer(); dt.setData('text/plain', t);
+      document.getElementById('ta').dispatchEvent(new ClipboardEvent('paste', {clipboardData: dt, bubbles: true, cancelable: true}));
+    }""", text)
+    page.wait_for_timeout(200)
+    out = page.input_value("#ta")
+    for secret in ["priya", "sharma", "Rahul", "oak hollow", "34th Street", "10001"]:
+        assert secret not in out, out
+    assert "Grant Park" in out  # place, not a person
+    assert re.search(r"\[PERSON_\d+\]", out) and re.search(r"\[ADDRESS_\d+\]", out)
+    set_settings(ctx, mode="warn")

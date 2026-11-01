@@ -1,12 +1,23 @@
 {
   "manifest_version": 3,
   "name": "PII Firewall",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Stops your SSN, card numbers, phone, email, address and name from being sent to AI chatbots. Runs 100% locally.",
-  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
-  "action": { "default_popup": "src/popup.html", "default_title": "PII Firewall" },
-  "background": { "service_worker": "src/background.js" },
-  "permissions": ["storage"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "src/popup.html",
+    "default_title": "PII Firewall"
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "permissions": [
+    "storage"
+  ],
   "content_scripts": [
     {
       "matches": [
@@ -21,7 +32,11 @@
         "https://poe.com/*",
         "https://grok.com/*"
       ],
-      "js": ["lib/pii-core.js", "src/content.js"],
+      "js": [
+        "lib/pii-names.js",
+        "lib/pii-core.js",
+        "src/content.js"
+      ],
       "run_at": "document_idle"
     }
   ]

@@ -54,8 +54,39 @@ def dob() -> str:
     return rng.choice([d.strftime("%m/%d/%Y"), d.strftime("%Y-%m-%d"), d.strftime("%B %-d, %Y")])
 
 
+# Names come from locales NOT used to build the name dictionary (scripts/build_names.py),
+# so the scorecard measures names the detector has never seen.
+HELD_OUT = ["sv_SE", "fi_FI", "cs_CZ", "da_DK", "no_NO", "ro_RO", "hr_HR", "sk_SK", "zu_ZA", "tw_GH", "en_PK",
+            "sl_SI", "et_EE", "id_ID"]
+_fakers = [Faker(loc) for loc in HELD_OUT]
+for _f in _fakers:
+    _f.seed_instance(SEED)
+
+
+def _ascii(s: str) -> str:
+    import unicodedata
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+
+
+def first() -> str:
+    return _ascii(rng.choice(_fakers).first_name())
+
+
 def name() -> str:
+    f = rng.choice(_fakers)
+    return _ascii(f"{f.first_name()} {f.last_name()}")
+
+
+def us_name() -> str:
     return f"{fake.first_name()} {fake.last_name()}"
+
+
+def ordinal(n: int) -> str:
+    return f"{n}{'th' if 10 <= n % 100 <= 20 else {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th')}"
+
+
+def city_line() -> str:
+    return f"{fake.city()}, {fake.state_abbr()} {fake.zipcode()}"
 
 
 def address() -> str:
@@ -80,10 +111,30 @@ TEMPLATES = [
     ("The meeting moved to {dt} in room {r}.", {"dt": (None, lambda: fake.date(pattern="%m/%d/%Y")), "r": (None, lambda: str(rng.randint(100, 999)))}),
     ("Tracking number {t} ships to ZIP {z}.", {"t": (None, lambda: "1Z" + fake.bothify("??######").upper()), "z": (None, fake.zipcode)}),
     ("What APR does the {bank} card charge after {m} months?", {"bank": (None, lambda: rng.choice(["Citi", "Chase", "Discover"])), "m": (None, lambda: str(rng.randint(6, 21)))}),
-    # Hard cases (known gaps, kept on purpose).
+    # Realistic name forms.
     ("{n} called yesterday about the account.", {"n": ("PERSON", name)}),
-    ("My social is {w}.", {"w": ("SSN", lambda: " ".join(rng.choice(["one", "two", "three", "four", "five"]) for _ in range(9)))}),
-    ("I live at {a}.", {"a": ("ADDRESS", lambda: f"{rng.randint(1, 999)} {fake.street_name().lower()}")}),
+    ("please email {n} about the refund", {"n": ("PERSON", lambda: us_name().lower())}),
+    ("Hi {f}, thanks for the update.", {"f": ("PERSON", lambda: fake.first_name_female())}),
+    ("Regards,\n{n}", {"n": ("PERSON", name)}),
+    ("Borrower: {n} signed today.", {"n": ("PERSON", lambda: f"{fake.first_name()} {rng.choice('ABCDJKMR')}. {fake.last_name()} Jr.")}),
+    ("Send it to {a} and {b}.", {"a": ("PERSON", name), "b": ("PERSON", name)}),
+    # Realistic address forms.
+    ("Office: {a}", {"a": ("ADDRESS", lambda: f"{rng.randint(10, 9999)} {rng.choice(['N', 'S', 'E', 'W'])} {ordinal(rng.randint(1, 120))} Street, {city_line()}")}),
+    ("Mail checks to {a}.", {"a": ("ADDRESS", lambda: f"PO Box {rng.randint(10, 99999)}, {city_line()}")}),
+    ("{a}", {"a": ("ADDRESS", lambda: f"Apt {rng.randint(1, 40)}{rng.choice('ABCD')}, {rng.randint(1, 9999)} {fake.last_name()} Ave, {city_line()}")}),
+    ("Warehouse at {a}", {"a": ("ADDRESS", lambda: f"{rng.randint(100, 9999)} FM {rng.randint(100, 3000)}, {city_line()}")}),
+    ("I live at {a}", {"a": ("ADDRESS", lambda: f"{rng.randint(1, 9999)} {fake.street_name().lower()} {fake.city().lower()} {fake.state_abbr().lower()} {fake.zipcode()}")}),
+    ("Mail to:\n{a}", {"a": ("ADDRESS", lambda: f"{rng.randint(1, 9999)} {fake.last_name()} Blvd\n{city_line()}")}),
+    # Decoys that look like names or addresses.
+    ("Meet me at {p} at noon.", {"p": (None, lambda: rng.choice(["Grant Park", "Victoria Station", "Chase Bank", "Lincoln Center", "Jackson Heights"]))}),
+    ("{w} you call the bank about {m}?", {"w": (None, lambda: rng.choice(["Will", "Can", "Should"])), "m": (None, lambda: rng.choice(["April", "June", "the Grace Period"]))}),
+    ("I have {a} dogs and {b} cats on the {c} floor.", {"a": (None, lambda: str(rng.randint(2, 9))), "b": (None, lambda: str(rng.randint(2, 9))), "c": (None, lambda: ordinal(rng.randint(2, 30)))}),
+    ("I moved from {c}, {s} last year.", {"c": (None, fake.city), "s": (None, fake.state_abbr)}),
+    ("my friend {n} is coming", {"n": ("PERSON", lambda: name().lower())}),
+    ("Our UK office: {a}", {"a": ("ADDRESS", lambda: f"Flat {rng.randint(1, 9)}, {rng.randint(1, 99)} High Road, Leeds LS1 4AP")}),
+    # Hard cases (known gaps, kept on purpose).
+    ("{n} agreed to the terms", {"n": ("PERSON", lambda: name().lower())}),
+    ("Our Hyderabad office: {a}", {"a": ("ADDRESS", lambda: f"Flat {rng.randint(101, 909)}, Sai Residency, Madhapur, Hyderabad 500081")}),
 ]
 
 
